@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Commands Password="gmt100" SoftwareName="GMT100 Manage Tool" SoftwareVer="2.4" FirmwareSubVersion="GMT100R00A11V05M128_NMX" DeviceSubVersion="N/A" DeviceAVer="0" DeviceVVer="0" DeviceIMEI="N/A" McuVersion="N/A" HardwareVersion="N/A">
+<Command Type="GTBSI" APN="datos.claro" APNUserName="" APNPassword=""/>
+<Command Type="GTSRI" ReportMode="4" BufferMode="2" MainServerIP="motos.navsat.com" MainServerPort="24016" BackupServerIP="192.0.0.0" BackupServerPort="0" SMSGateway="+50688753228" HeartbeatInterval="0" SACKEnable="1" ProtocolFormat="0" ConnectionOnAlways="0" SMSACKEnable="0" />
+<Command Type="GTQSS" APN="datos.claro" APNUserName="" APNPassword="" ReportMode="4" BufferMode="2" MainServerIP="motos.navsat.com" MainServerPort="24016" BackupServerIP="192.0.0.0" BackupServerPort="0" SMSGateway="+50688753228" HeartbeatInterval="0" SACKEnable="1" ProtocolFormat="0" ConnectionOnAlways="0" />
+<Command Type="GTCFG" NewPassword="navs4t" DeviceName="Disponible gmt100" ODOEnable="1" ODOInitialMileage="0" GPSOnNeed="0" ReportCompositionMask="77" PowerSavingEnable="1" EventMask="18BEF" LEDOn="0" InfoReportEnable="0" InfoReportInterval="300" LocationByCall="0" PowerMode="1" GSMReport="0" AgpsMode="1"/>
+<Command Type="GTTOW" TowEnable="1" EngineOfftoTow="30" FakeTowDelay="10" TowInterval="300" TowOutputID="0" TowOutputStatus="0" TowOutputDuration="0" TowOutputToggleTimes="0" RestDuration="2" MotionDuration="2" MotionThreshold="3"/>
+<Command Type="GTOUT" Enable_Output1="0" Duration_Output1="0" ToggleTimes_Output1="0" CUTRelayStatus_Output1="0" OverSpeedRestrictOutput="10" DebounceTime="0" />
+<Command Type="GTEPS" Mode="0" MinThreshold="250" MaxThreshold="250" SamplePeriod="0" DebounceTime="0" OutputID="0" OutputStatus="0" Duration="0" ToggleTimes="0" SyncWithFRI="0" Validity="1" />
+<Command Type="GTDIS" SamplePeriod_1="2" NoIgnition_1="0" EnableThisInput_2="0" DebounceTime_2="0"  ValidityTime_2="0" />
+<Command Type="GTIOB"  IOBID0="0" InputMask0="0" TriggerMask0="0" SamplePeriod0="0" OutputID0="0" OutputActive0="0" Duration0="0" ToggleTimes0="0"  IOBID1="1" InputMask1="0" TriggerMask1="0" SamplePeriod1="0" OutputID1="0" OutputActive1="0" Duration1="0" ToggleTimes1="0"  IOBID2="2" InputMask2="0" TriggerMask2="0" SamplePeriod2="0" OutputID2="0" OutputActive2="0" Duration2="0" ToggleTimes2="0"  />
+<Command Type="GTTMA" Sign="+" HourOffset="0" MinuteOffset="0" DaylightSaving="0" UTCTime=""/>
+<Command Type="GTFRI" Mode="1" DiscardNoFix="0" PeriodEnable="0" StartTime="0000" EndTime="2359" CheckInterval="30" SendInterval="10" Distance="1000" Mileage="1000" CornerReport="0" IGFReportInterval="300"/>
+<Command Type="GTFFC"  Priority0="0" Mode0="1"  Priority1="1" Mode1="0"  Priority2="2" Mode2="0"  Priority3="3" Mode3="0"  Priority4="4" Mode4="0" />
+<Command Type="GTGEO"  GEOID0="0" Mode0="0" Latitude0="0" Longitude0="0" Radius0="50" CheckInterval0="0" OutputID0="0" OutputStatus0="0" Duration0="0"  ToggleTimes0="0" TriggerMode0="0" TriggerReport0="0"  GEOID1="1" Mode1="0" Latitude1="0" Longitude1="0" Radius1="50" CheckInterval1="0" OutputID1="0" OutputStatus1="0" Duration1="0"  ToggleTimes1="0" TriggerMode1="0" TriggerReport1="0"  GEOID2="2" Mode2="0" Latitude2="0" Longitude2="0" Radius2="50" CheckInterval2="0" OutputID2="0" OutputStatus2="0" Duration2="0"  ToggleTimes2="0" TriggerMode2="0" TriggerReport2="0"  GEOID3="3" Mode3="0" Latitude3="0" Longitude3="0" Radius3="50" CheckInterval3="0" OutputID3="0" OutputStatus3="0" Duration3="0"  ToggleTimes3="0" TriggerMode3="0" TriggerReport3="0"  GEOID4="4" Mode4="0" Latitude4="0" Longitude4="0" Radius4="50" CheckInterval4="0" OutputID4="0" OutputStatus4="0" Duration4="0"  ToggleTimes4="0" TriggerMode4="0" TriggerReport4="0" />
+<Command Type="GTSPD" Mode="0" MinSpeed="0" MaxSpeed="0" Duration="15" SendInterval="30" OutputID="0" OutputStatus="0" DurationOutput="0" ToggleTimes="0"/>
+<Command Type="GTSOS" Mode="0" DigitalInputID="0" SOSNumber="" OutputID="0" OutputStatus="0" Duration="0" ToggleTimes="0"/>
+<Command Type="GTRTO" SubCommand="0" />
+<Command Type="GTPIN" EnableAutoUnlockPIN="0" PIN="" />
+<Command Type="GTHRM" ACK="0" RSP="0" EVT="0" INF="0" HBD="0" />
+<Command Type="GTOWH" Mode="0" DayOfWork="0" WorkingHoursStart1="0900" WorkingHoursEnd1="1200" WorkingHoursStart2="1300" WorkingHoursEnd2="1800" OutputID="0" OutputStatus="0" Duration="0" ToggleTimes="0"/>
+<Command Type="GTDOG" Mode="1" IgnitionFrequency="10" Interval="1" Time="0600" ReportBeforeReboot="1" InputID="0" GSMInterval="60" PDPInterval="60" PDPResetInterval="30" />
+<Command Type="GTAIS" Mode1="2" MinThreshold1="250" MaxThreshold1="250" SampleRate1="2" OutputID1="1" OutputActive1="1" Duration1="1" ToggleTimes1="0" SyncWithFRI1="1" />
+<Command Type="GTIDL" Mode="0" TimeToStationary="1" TimeToMovement="1" OutputID="0" OutputStatus="0" Duration="0" ToggleTimes="0"/>
+<Command Type="GTHMC" HourMeterEnable="0" InitialHourMeterCount="00000:00:00" />
+<Command Type="GTHBM" HarshBehaviorMonitoringEnable="0" HighSpeed="100" HighSpeedVhb="0" HighSpeedVha="0" MediumSpeed="60" MediumSpeedVhb="0" MediumSpeedVha="0" NormalSpeedVhb="0" NormalSpeedVha="0" OutputID="0" OutputStatus="0" Duration="0" ToggleTimes="0"/>
+<Command Type="GTSSR" Mode="0" TimeToStop="2"  TimeToStart="1" StartSpeed="5"/>
+<Command Type="GTJDC" Mode="0" SignalThreshold="25"  JamCellNumThreshold="5" EnterJamTimerThreshold="10" QuitJamTimerThreshold="10" OutputID="0" OutputStatus="0" Duration="0" ToggleTimes="0"/>
+<Command Type="GTNMD" Mode="0" NonMovementDuration="180" MovementDuration="10" NMDReportInterval="300" />
+<Command Type="GTPDS" Mode="1" Mask="399"/>
+<Command Type="GTJBS" Mode="0" SirenupTimer="10" SirendownTimer="10" SirenAlarmDuration="60" PreparingAlarmTimer="30" CutfuelTimer="3600" SpeedLimit="30" NeedJudgeMotionSensor="1" GPSFixFailTimer="120" />
+<Command Type="GTWLT" CallFilter="4" StartIndex="1" EndIndex="1"  PhoneNumberList1="+50688753228" PhoneNumberList2="" PhoneNumberList3="" PhoneNumberList4=""  PhoneNumberList5="" PhoneNumberList6="" PhoneNumberList7="" PhoneNumberList8="" PhoneNumberList9="" PhoneNumberList10=""/>
+</Commands>
