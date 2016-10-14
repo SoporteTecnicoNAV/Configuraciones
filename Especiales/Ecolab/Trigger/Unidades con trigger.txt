@@ -1,0 +1,3 @@
+Trigger de conductor y paradas 828 ambos:
+STD005140 1001
+STD007872 1002
