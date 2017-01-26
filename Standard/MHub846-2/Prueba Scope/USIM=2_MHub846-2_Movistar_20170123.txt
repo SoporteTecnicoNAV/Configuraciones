@@ -1,0 +1,8 @@
+2017/01/23 11:06:21:731 [I] Modem:249 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:06:21:736 [I] GSM:2972 [0x0107] [79] SmsRd: 0 | Update: 39 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 486
+2017/01/23 11:06:21:810 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:06:21:811 [W] GSM:1015 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:06:22:721 [I] Modem:249 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:06:22:722 [I] GSM:2972 [0x0107] [79] SmsRd: 9 | Update: 38 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 485
+2017/01/23 11:06:23:729 [I] Modem:249 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:06:23:730 [I] GSM:2972 [0x0107] [79] SmsRd: 8 | Update: 37 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 484

@@ -1,0 +1,1582 @@
+2017/01/23 11:48:49:90 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:48:49:93 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 680
+2017/01/23 11:48:50:93 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:48:50:96 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 679
+2017/01/23 11:48:51:808 [E] Undefined:000 [0x0000] [485] Invalid Debug Received (Unknown Class) - Src: 2, Dst: 0, Rsp: F, Enc: T, ID: 1, Len: 129..Data: 00 02 02 F1 00 00 00 58 00 4D 6F 64 65 6D 20 49 6E 74 20 53 74 3A 20 38 30 30 36 3B 20 43 6D 64 20 54 6D 4F 75 74 3A 20 30 2C 20 52 62 74 20 44 65 6C 20 30 3B 20 4D 6F 64 65 6D 3A 20 55 6E 64 65 74 65 63 74 65 64 20 55 6E 6B 6E 6F 77 6E 3B 20 4C 6F 63 6B 6F 75 74 20 4F 66 66 20 54 3A 20 30 DC B9 81 24 00 00 02 01 01 00 03 02 C3 01 00 05 1C 00 43 4F 4C 44 20 4D 4F 44 45 4D 20 50 4F 57 ..
+2017/01/23 11:48:52:740 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:48:52:995 [W] Modem:461 [0x0009] [18] MODEM REGULATOR ON                      
+2017/01/23 11:48:53:863 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:48:54:752 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:48:55:898 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:48:56:750 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:48:57:901 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:48:57:906 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 11:48:58:749 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:48:59:887 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:00:750 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:02:34 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:02:740 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:03:996 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:04:763 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:05:979 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:06:750 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:07:958 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:07:962 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 11:49:08:744 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:09:967 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:10:746 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:11:741 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:11:979 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 11:49:12:750 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:13:757 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:14:751 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:15:751 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:16:753 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:17:757 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:18:763 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:19:762 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:20:761 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:20:775 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 11:49:21:755 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:22:761 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:23:753 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:24:758 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:25:750 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:26:748 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:27:749 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:28:744 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:29:758 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:30:756 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:30:775 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 11:49:31:760 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:32:755 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:33:752 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:34:751 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 11:49:34:770 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 11:49:34:795 [I] Modem:1027 [0x0103] [11] AT..:..OK..                             
+2017/01/23 11:49:34:810 [I] Modem:1012 [0x0100] [7] ATE0..:                                 
+2017/01/23 11:49:34:826 [I] Modem:1027 [0x0103] [13] ATE0..:..OK..                           
+2017/01/23 11:49:34:860 [I] Modem:1012 [0x0100] [16] AT+IPR=115200..:                        
+2017/01/23 11:49:34:876 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:34:891 [I] Modem:1012 [0x0100] [10] AT+CGMM..:                              
+2017/01/23 11:49:34:923 [I] Modem:1027 [0x0103] [15] ..GE865....OK..                         
+2017/01/23 11:49:34:925 [I] Modem:1144 [0x0000] [25] Modem Id: ..GE865....OK..               
+2017/01/23 11:49:34:927 [I] Modem:1160 [0x0000] [18] Modem ID: 0; GE865                      
+2017/01/23 11:49:34:946 [I] Modem:1012 [0x0100] [10] AT+CGMR..:                              
+2017/01/23 11:49:34:958 [I] Modem:1027 [0x0103] [19] ..10.00.005....OK..                     
+2017/01/23 11:49:34:970 [I] Modem:1012 [0x0100] [13] AT#SIMDET?..:                           
+2017/01/23 11:49:35:15 [I] Modem:1027 [0x0103] [22] ..#SIMDET: 2,1....OK..                  
+2017/01/23 11:49:35:16 [I] Modem:1792 [0x0000] [28] SIMDETSTATUS: 2; SimDet FAIL            
+2017/01/23 11:49:35:41 [I] Modem:1012 [0x0100] [14] AT#SIMDET=1..:                          
+2017/01/23 11:49:35:61 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:35:91 [I] Modem:1276 [0x0000] [19] Telit Init Complete                     
+2017/01/23 11:49:35:109 [I] Modem:772 [0x0000] [27] SIM COMMISSION NOT REQUIRED             
+2017/01/23 11:49:35:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 2, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:35:762 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 0 | STATE: 0000h; RI: 0 | Reset Timer: 899
+2017/01/23 11:49:36:243 [I] GSM:2109 [0x0100] [4] AT..                                    
+2017/01/23 11:49:36:325 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:36:433 [I] GSM:2109 [0x0100] [6] ATE0..                                  
+2017/01/23 11:49:36:526 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:36:625 [I] GSM:2109 [0x0100] [11] AT+CMEE=1..                             
+2017/01/23 11:49:36:730 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:36:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 1, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:36:751 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0009h; RI: 0 | Reset Timer: 898
+2017/01/23 11:49:36:843 [I] GSM:2109 [0x0100] [11] AT+COPS=0..                             
+2017/01/23 11:49:36:931 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:37:26 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:49:37:135 [I] GSM:2170 [0x0103] [20] ..+CSQ: 23,0....OK..                    
+2017/01/23 11:49:37:231 [I] GSM:2109 [0x0100] [11] AT+CALM=0..                             
+2017/01/23 11:49:37:345 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:37:434 [I] GSM:2109 [0x0100] [15] AT#GPIO=8,1,1..                         
+2017/01/23 11:49:37:525 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:37:634 [I] GSM:2109 [0x0100] [10] AT#QSS=2..                              
+2017/01/23 11:49:37:727 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:37:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:37:744 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0015h; RI: 0 | Reset Timer: 897
+2017/01/23 11:49:37:836 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:49:38:66 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:49:38:68 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:49:38:108 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:38:133 [I] GSM:2109 [0x0100] [9] AT+CGSN..                               
+2017/01/23 11:49:38:230 [I] GSM:2170 [0x0103] [25] ..359006059301212....OK..               
+2017/01/23 11:49:38:249 [I] GSM:2620 [0x0107] [62] Current IMEI 59301212; Read IMEI: 59301212; Saved Imei Correct
+2017/01/23 11:49:38:341 [I] GSM:2109 [0x0100] [9] AT+CGMM..                               
+2017/01/23 11:49:38:432 [I] GSM:2170 [0x0103] [15] ..GE865....OK..                         
+2017/01/23 11:49:38:433 [I] GSM:2931 [0x0107] [5] GE865                                   
+2017/01/23 11:49:38:538 [I] GSM:2109 [0x0100] [9] AT+CGMR..                               
+2017/01/23 11:49:38:635 [I] GSM:2170 [0x0103] [19] ..10.00.005....OK..                     
+2017/01/23 11:49:38:636 [I] GSM:2931 [0x0107] [9] 10.00.005                               
+2017/01/23 11:49:38:728 [I] GSM:2109 [0x0100] [9] AT#CFVR..                               
+2017/01/23 11:49:38:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:38:757 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0028h; RI: 0 | Reset Timer: 896
+2017/01/23 11:49:38:840 [I] GSM:2170 [0x0103] [18] ..#CFVR: 2....OK..                      
+2017/01/23 11:49:38:842 [I] GSM:2931 [0x0107] [1] 2                                       
+2017/01/23 11:49:38:933 [I] GSM:2109 [0x0100] [10] AT+CPIN?..                              
+2017/01/23 11:49:39:41 [I] GSM:2170 [0x0103] [22] ..+CPIN: READY....OK..                  
+2017/01/23 11:49:39:140 [I] GSM:2109 [0x0100] [11] AT+CREG=2..                             
+2017/01/23 11:49:39:228 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:39:333 [I] GSM:2109 [0x0100] [11] AT+CMGF=0..                             
+2017/01/23 11:49:39:427 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:39:536 [I] GSM:2109 [0x0100] [10] AT+CRC=1..                              
+2017/01/23 11:49:39:633 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:39:725 [I] GSM:2109 [0x0100] [10] ATS0=000..                              
+2017/01/23 11:49:39:739 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:39:759 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 002Eh; RI: 0 | Reset Timer: 895
+2017/01/23 11:49:39:835 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:40:64 [I] GSM:2109 [0x0100] [11] AT+CLIP=1..                             
+2017/01/23 11:49:40:75 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:40:133 [I] GSM:2109 [0x0100] [12] AT#SRS=1,0..                            
+2017/01/23 11:49:40:242 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:40:336 [I] GSM:2109 [0x0100] [10] AT#SRP=0..                              
+2017/01/23 11:49:40:431 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:40:534 [I] GSM:2109 [0x0100] [12] AT+IFC=2,2..                            
+2017/01/23 11:49:40:635 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:40:741 [I] GSM:2109 [0x0100] [13] AT#HFMICG=0..                           
+2017/01/23 11:49:40:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:40:770 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 004Ah; RI: 0 | Reset Timer: 894
+2017/01/23 11:49:40:834 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:40:933 [I] GSM:2109 [0x0100] [13] AT#HFRECG=0..                           
+2017/01/23 11:49:41:36 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:41:130 [I] GSM:2109 [0x0100] [12] AT+CLVL=10..                            
+2017/01/23 11:49:41:238 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:41:334 [I] GSM:2109 [0x0100] [11] AT+CRSL=0..                             
+2017/01/23 11:49:41:444 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:41:543 [I] GSM:2109 [0x0100] [12] AT#SHFEC=1..                            
+2017/01/23 11:49:41:629 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:41:739 [I] GSM:2109 [0x0100] [10] AT+CSCA?..                              
+2017/01/23 11:49:41:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:41:762 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0056h; RI: 0 | Reset Timer: 893
+2017/01/23 11:49:41:834 [I] GSM:2170 [0x0103] [35] ..+CSCA: "+50660000013",145....OK..     
+2017/01/23 11:49:41:863 [I] GSM:3005 [0x0107] [25] +50660000013",145....OK..               
+2017/01/23 11:49:41:864 [I] GSM:3013 [0x0107] [12] +50660000013                            
+2017/01/23 11:49:41:880 [W] GSM:3035 [0x0102] [18] SMSC in SCA1 valid                      
+2017/01/23 11:49:41:952 [I] GSM:2109 [0x0100] [11] AT+CPLS=0..                             
+2017/01/23 11:49:42:170 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:42:179 [I] GSM:2109 [0x0100] [14] AT#AUTOBND=0..                          
+2017/01/23 11:49:42:236 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:42:331 [I] GSM:2109 [0x0100] [13] AT+COPS=3,2..                           
+2017/01/23 11:49:42:440 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:42:532 [I] GSM:2109 [0x0100] [10] AT#BND=2..                              
+2017/01/23 11:49:42:625 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:42:736 [I] GSM:2109 [0x0100] [14] AT#E2SMSRI=0..                          
+2017/01/23 11:49:42:738 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:42:759 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0062h; RI: 0 | Reset Timer: 892
+2017/01/23 11:49:42:836 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:42:939 [I] GSM:2109 [0x0100] [9] AT+CIMI..                               
+2017/01/23 11:49:43:38 [I] GSM:2170 [0x0103] [25] ..712040000803510....OK..               
+2017/01/23 11:49:43:124 [I] GSM:2109 [0x0100] [9] AT#CCID..                               
+2017/01/23 11:49:43:246 [I] GSM:2170 [0x0103] [36] ..#CCID: 8950604011203409706....OK..    
+2017/01/23 11:49:43:249 [W] GSM:2695 [0x0102] [29] SIM ICID: 8950604011203409706           
+2017/01/23 11:49:43:330 [I] GSM:2109 [0x0100] [11] AT#STIA=0..                             
+2017/01/23 11:49:43:426 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:43:530 [I] GSM:2109 [0x0100] [14] AT#JDR=0,0,0..                          
+2017/01/23 11:49:43:625 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:43:754 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:43:756 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 006Dh; RI: 0 | Reset Timer: 891
+2017/01/23 11:49:43:944 [I] Modem:274 [0x0107] [16] New State: 8001h                        
+2017/01/23 11:49:44:164 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:49:44:170 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:49:44:185 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:49:44:187 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:49:44:233 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:49:44:235 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:49:44:326 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:44:436 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:49:44:530 [I] GSM:2170 [0x0103] [20] ..+CSQ: 24,0....OK..                    
+2017/01/23 11:49:44:627 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:49:44:742 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:49:44:744 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:49:44:760 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:44:772 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 0 | Cmd Timeout: 5 | STATE: 0807h; RI: 0 | Reset Timer: 890
+2017/01/23 11:49:44:934 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:49:45:31 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:49:45:155 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:45:236 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:49:45:340 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:49:45:350 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:49:45:435 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:49:45:531 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,0....OK..                   
+2017/01/23 11:49:45:642 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:49:45:750 [I] GSM:2170 [0x0103] [68] ..#SS: 1,0..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:49:45:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:45:762 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 0 | Cmd Timeout: 5 | STATE: 0813h; RI: 0 | Reset Timer: 889
+2017/01/23 11:49:45:828 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:49:45:933 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,576493,468797,107696....OK..
+2017/01/23 11:49:46:191 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:49:46:201 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:49:46:219 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:49:46:239 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:46:326 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:49:46:432 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:49:46:527 [I] GSM:2109 [0x0100] [9] AT#MONI..                               
+2017/01/23 11:49:46:750 [I] GSM:2170 [0x0103] [493] ..#MONI: Cell  BSIC  LAC  CellId  ARFCN    Power  C1  C2  TA  RxQual  PLMN..#MONI:  S    31  A414   050D     814   -64dbm  36  36   1     0    712 04..#MONI: N1    40  A414   0000     821   -72dbm  28  22 ..#MONI: N2    13  A414   0000     816   -81dbm  19  13 ..#MONI: N3    62  A414   050C     823   -83dbm  17  11 ..#MONI: N4    FF  FFFF   0000     815   -81dbm  -1  -1 ..#MONI: N5    FF  FFFF   0000     813   -84dbm  -1  -1 ..#MONI: N6    FF  FFFF   0000     822   -87dbm  -1  -1 ....OK..
+2017/01/23 11:49:46:774 [I] GSM:3281 [0x0000] [28] 31, A414, 50D, 814,-64dBm, 1            
+2017/01/23 11:49:46:776 [I] GSM:3281 [0x0000] [26] 40, A414, 0, 821,-72dBm, 2              
+2017/01/23 11:49:46:785 [I] GSM:3281 [0x0000] [26] 13, A414, 0, 816,-81dBm, 3              
+2017/01/23 11:49:46:787 [I] GSM:3281 [0x0000] [28] 62, A414, 50C, 823,-83dBm, 4            
+2017/01/23 11:49:46:797 [I] GSM:3281 [0x0000] [25] 0, FFFF, 0, 815,-81dBm, 5               
+2017/01/23 11:49:46:806 [I] GSM:3281 [0x0000] [25] 0, FFFF, 0, 813,-84dBm, 6               
+2017/01/23 11:49:46:809 [I] GSM:3281 [0x0000] [25] 0, FFFF, 0, 822,-87dBm, 7               
+2017/01/23 11:49:46:810 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:49:46:812 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:46:814 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 0 | Cmd Timeout: 5 | STATE: 081Ch; RI: 0 | Reset Timer: 888
+2017/01/23 11:49:46:838 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,36....OK..               
+2017/01/23 11:49:46:840 [I] GSM:3373 [0x0000] [12] Box Temp: 36                            
+2017/01/23 11:49:46:930 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:49:47:28 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:49:47:41 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:49:47:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:47:752 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 887
+2017/01/23 11:49:48:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:48:764 [I] GSM:2866 [0x0107] [79] SmsRd: 5 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 886
+2017/01/23 11:49:49:753 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:49:765 [I] GSM:2866 [0x0107] [79] SmsRd: 4 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 885
+2017/01/23 11:49:50:760 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:50:763 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 884
+2017/01/23 11:49:51:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:51:754 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 883
+2017/01/23 11:49:52:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:52:765 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 882
+2017/01/23 11:49:53:754 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:53:769 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 881
+2017/01/23 11:49:53:841 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:49:53:844 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:49:54:762 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:54:765 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 880
+2017/01/23 11:49:55:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:55:772 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 879
+2017/01/23 11:49:56:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:56:758 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 878
+2017/01/23 11:49:57:758 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:57:760 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 877
+2017/01/23 11:49:58:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:58:764 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 876
+2017/01/23 11:49:59:759 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:49:59:763 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 875
+2017/01/23 11:50:00:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:00:754 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 874
+2017/01/23 11:50:01:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:01:751 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 873
+2017/01/23 11:50:01:831 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:50:01:834 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:50:01:941 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:50:01:942 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:50:02:30 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:02:211 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:50:02:238 [I] GSM:2170 [0x0103] [20] ..+CSQ: 24,0....OK..                    
+2017/01/23 11:50:02:329 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:50:02:438 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:50:02:439 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:50:02:650 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:50:02:733 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:50:02:761 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:02:775 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 872
+2017/01/23 11:50:02:890 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:02:937 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:50:03:29 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:50:03:32 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:50:03:143 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:50:03:234 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,0....OK..                   
+2017/01/23 11:50:03:330 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:50:03:441 [I] GSM:2170 [0x0103] [68] ..#SS: 1,0..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:50:03:531 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:50:03:640 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,576493,468797,107696....OK..
+2017/01/23 11:50:03:731 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:50:03:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:03:753 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 871
+2017/01/23 11:50:03:830 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:50:03:832 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:50:03:937 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:04:41 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:50:04:318 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:04:344 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:50:04:434 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,36....OK..               
+2017/01/23 11:50:04:438 [I] GSM:3373 [0x0000] [12] Box Temp: 36                            
+2017/01/23 11:50:04:529 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:50:04:642 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:50:04:644 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:50:04:754 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:04:761 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 870
+2017/01/23 11:50:04:830 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:50:04:832 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:50:05:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:05:760 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 869
+2017/01/23 11:50:06:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:06:754 [I] GSM:2866 [0x0107] [79] SmsRd: 8 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 868
+2017/01/23 11:50:07:764 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:07:768 [I] GSM:2866 [0x0107] [79] SmsRd: 7 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 867
+2017/01/23 11:50:08:755 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:08:758 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 866
+2017/01/23 11:50:09:740 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:09:758 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 865
+2017/01/23 11:50:10:756 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:10:758 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 864
+2017/01/23 11:50:11:755 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:11:758 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 863
+2017/01/23 11:50:12:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:12:766 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 862
+2017/01/23 11:50:13:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:13:763 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 861
+2017/01/23 11:50:14:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:14:752 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 860
+2017/01/23 11:50:14:838 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:50:14:840 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:50:15:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:15:764 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 859
+2017/01/23 11:50:16:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:16:766 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 858
+2017/01/23 11:50:17:742 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:17:758 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 857
+2017/01/23 11:50:18:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:18:763 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 856
+2017/01/23 11:50:18:834 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:50:18:837 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:50:18:944 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:50:18:946 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:50:19:34 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:19:138 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:50:19:239 [I] GSM:2170 [0x0103] [20] ..+CSQ: 23,0....OK..                    
+2017/01/23 11:50:19:335 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:50:19:430 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:50:19:443 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:50:19:633 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:50:19:728 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:50:19:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:19:761 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 855
+2017/01/23 11:50:19:839 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:19:928 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:50:20:36 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:50:20:39 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:50:20:134 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:50:20:421 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:50:20:422 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:50:20:455 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:50:20:531 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:50:20:641 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,576889,468999,107890....OK..
+2017/01/23 11:50:20:734 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:50:20:736 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:20:749 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 854
+2017/01/23 11:50:20:831 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:50:20:833 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:50:20:939 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:21:35 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:50:21:127 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:21:327 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:50:21:485 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,40....OK..               
+2017/01/23 11:50:21:490 [I] GSM:3373 [0x0000] [12] Box Temp: 40                            
+2017/01/23 11:50:21:538 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:50:21:638 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:50:21:640 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:50:21:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:21:749 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 853
+2017/01/23 11:50:22:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:22:753 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 852
+2017/01/23 11:50:23:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:23:754 [I] GSM:2866 [0x0107] [79] SmsRd: 1 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 851
+2017/01/23 11:50:24:807 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:24:830 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 850
+2017/01/23 11:50:24:909 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:50:24:934 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:50:25:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:25:760 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 849
+2017/01/23 11:50:26:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:26:755 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 848
+2017/01/23 11:50:27:740 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:27:755 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 847
+2017/01/23 11:50:28:761 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:28:764 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 846
+2017/01/23 11:50:29:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:29:756 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 845
+2017/01/23 11:50:30:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:30:767 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 844
+2017/01/23 11:50:31:779 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:31:791 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 843
+2017/01/23 11:50:32:763 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:32:766 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 842
+2017/01/23 11:50:33:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:33:753 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 841
+2017/01/23 11:50:34:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:34:769 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 840
+2017/01/23 11:50:34:836 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:50:34:838 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:50:35:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:35:759 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 839
+2017/01/23 11:50:35:836 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:50:35:838 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:50:35:940 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:50:35:941 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:50:36:23 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:36:133 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:50:36:243 [I] GSM:2170 [0x0103] [20] ..+CSQ: 24,0....OK..                    
+2017/01/23 11:50:36:542 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:50:36:543 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:50:36:545 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:50:36:634 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:50:36:740 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:50:36:742 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:36:757 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 838
+2017/01/23 11:50:36:840 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:36:930 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:50:37:39 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:50:37:40 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:50:37:131 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:50:37:238 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:50:37:334 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:50:37:460 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:50:37:524 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:50:37:648 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577156,469177,107979....OK..
+2017/01/23 11:50:37:739 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:50:37:742 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:37:769 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 837
+2017/01/23 11:50:37:830 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:50:37:832 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:50:37:927 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:38:36 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:50:38:135 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:38:590 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:50:38:612 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,37....OK..               
+2017/01/23 11:50:38:615 [I] GSM:3373 [0x0000] [12] Box Temp: 37                            
+2017/01/23 11:50:38:618 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:50:38:647 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:50:38:674 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:50:38:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:38:755 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 836
+2017/01/23 11:50:39:756 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:39:759 [I] GSM:2866 [0x0107] [79] SmsRd: 5 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 835
+2017/01/23 11:50:40:755 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:40:758 [I] GSM:2866 [0x0107] [79] SmsRd: 4 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 834
+2017/01/23 11:50:41:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:41:768 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 833
+2017/01/23 11:50:42:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:42:751 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 832
+2017/01/23 11:50:43:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:43:764 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 831
+2017/01/23 11:50:44:758 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:44:760 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 830
+2017/01/23 11:50:44:840 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:50:44:845 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:50:45:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:45:758 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 829
+2017/01/23 11:50:46:764 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:46:770 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 828
+2017/01/23 11:50:47:755 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:47:758 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 827
+2017/01/23 11:50:48:758 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:48:761 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 826
+2017/01/23 11:50:49:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:49:754 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 825
+2017/01/23 11:50:50:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:50:765 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 824
+2017/01/23 11:50:51:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:51:779 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 823
+2017/01/23 11:50:52:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:52:760 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 822
+2017/01/23 11:50:52:825 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:50:52:837 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:50:52:930 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:50:52:941 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:50:53:25 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:53:136 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:50:53:230 [I] GSM:2170 [0x0103] [20] ..+CSQ: 22,0....OK..                    
+2017/01/23 11:50:53:326 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:50:53:430 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:50:53:448 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:50:53:634 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:50:53:730 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:50:53:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:53:760 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 821
+2017/01/23 11:50:53:836 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:53:930 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:50:54:41 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:50:54:47 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:50:54:135 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:50:54:241 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:50:54:344 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:50:54:618 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:50:54:620 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:50:54:647 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577156,469177,107979....OK..
+2017/01/23 11:50:54:731 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:50:54:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:54:753 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 820
+2017/01/23 11:50:54:847 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:50:54:860 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:50:54:928 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:55:39 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:50:55:131 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:50:55:340 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:50:55:427 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,36....OK..               
+2017/01/23 11:50:55:447 [I] GSM:3373 [0x0000] [12] Box Temp: 36                            
+2017/01/23 11:50:55:537 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:50:55:632 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:50:55:635 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:50:55:757 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:55:780 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 819
+2017/01/23 11:50:55:837 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:50:55:851 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:50:56:761 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:56:765 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 818
+2017/01/23 11:50:57:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:57:758 [I] GSM:2866 [0x0107] [79] SmsRd: 8 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 817
+2017/01/23 11:50:58:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:58:755 [I] GSM:2866 [0x0107] [79] SmsRd: 7 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 816
+2017/01/23 11:50:59:753 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:50:59:755 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 815
+2017/01/23 11:51:00:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:00:750 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 814
+2017/01/23 11:51:01:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:01:754 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 813
+2017/01/23 11:51:02:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:02:760 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 812
+2017/01/23 11:51:03:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:03:756 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 811
+2017/01/23 11:51:04:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:04:765 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 810
+2017/01/23 11:51:05:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:05:756 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 809
+2017/01/23 11:51:05:834 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:51:05:877 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:51:06:763 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:06:765 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 808
+2017/01/23 11:51:07:762 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:07:767 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 807
+2017/01/23 11:51:08:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:08:754 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 806
+2017/01/23 11:51:09:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:09:763 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 805
+2017/01/23 11:51:09:826 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:51:09:851 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:51:09:938 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:51:09:941 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:51:10:33 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:10:126 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:51:10:235 [I] GSM:2170 [0x0103] [20] ..+CSQ: 24,0....OK..                    
+2017/01/23 11:51:10:326 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:51:10:452 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:51:10:455 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:51:10:671 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:51:10:742 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:51:10:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:10:749 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 804
+2017/01/23 11:51:10:824 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:10:933 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:51:11:32 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:51:11:35 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:51:11:123 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:51:11:236 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:51:11:324 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:51:11:448 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:51:11:527 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:51:11:636 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577156,469177,107979....OK..
+2017/01/23 11:51:11:730 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:51:11:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:11:751 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 803
+2017/01/23 11:51:11:837 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:51:11:839 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:51:11:935 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:12:28 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:51:12:138 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:12:338 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:51:12:430 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,36....OK..               
+2017/01/23 11:51:12:431 [I] GSM:3373 [0x0000] [12] Box Temp: 36                            
+2017/01/23 11:51:12:721 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:51:12:730 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:51:12:749 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:51:12:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:12:754 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 802
+2017/01/23 11:51:13:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:13:760 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 801
+2017/01/23 11:51:14:742 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:14:756 [I] GSM:2866 [0x0107] [79] SmsRd: 1 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 800
+2017/01/23 11:51:15:742 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:15:755 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 799
+2017/01/23 11:51:15:839 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:51:15:843 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:51:16:756 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:16:758 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 798
+2017/01/23 11:51:17:754 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:17:756 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 797
+2017/01/23 11:51:18:799 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:18:801 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 796
+2017/01/23 11:51:19:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:19:762 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 795
+2017/01/23 11:51:20:774 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:20:786 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 794
+2017/01/23 11:51:21:760 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:21:762 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 793
+2017/01/23 11:51:22:806 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:22:872 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 792
+2017/01/23 11:51:23:755 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:23:758 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 791
+2017/01/23 11:51:24:786 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:24:795 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 790
+2017/01/23 11:51:25:758 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:25:770 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 789
+2017/01/23 11:51:25:829 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:51:25:832 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:51:26:832 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:26:844 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 788
+2017/01/23 11:51:26:847 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:51:26:848 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:51:26:938 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:51:26:939 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:51:27:34 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:27:126 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:51:27:234 [I] GSM:2170 [0x0103] [20] ..+CSQ: 23,0....OK..                    
+2017/01/23 11:51:27:328 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:51:27:437 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:51:27:446 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:51:27:623 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:51:27:736 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:51:27:739 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:27:757 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 787
+2017/01/23 11:51:27:826 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:27:936 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:51:28:28 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:51:28:30 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:51:28:126 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:51:28:239 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:51:28:327 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:51:28:452 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:51:28:530 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:51:28:823 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577156,469177,107979....OK..
+2017/01/23 11:51:28:830 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:51:28:848 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:28:850 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 786
+2017/01/23 11:51:28:860 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:51:28:877 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:51:28:922 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:29:36 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:51:29:122 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:29:324 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:51:29:435 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,34....OK..               
+2017/01/23 11:51:29:436 [I] GSM:3373 [0x0000] [12] Box Temp: 34                            
+2017/01/23 11:51:29:528 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:51:29:637 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:51:29:638 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:51:29:738 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:29:748 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 785
+2017/01/23 11:51:30:825 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:30:827 [I] GSM:2866 [0x0107] [79] SmsRd: 5 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 784
+2017/01/23 11:51:31:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:31:746 [I] GSM:2866 [0x0107] [79] SmsRd: 4 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 783
+2017/01/23 11:51:32:863 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:32:873 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 782
+2017/01/23 11:51:33:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:33:755 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 781
+2017/01/23 11:51:34:864 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:34:866 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 780
+2017/01/23 11:51:35:735 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:35:757 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 779
+2017/01/23 11:51:35:828 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:51:35:831 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:51:36:876 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:36:899 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 778
+2017/01/23 11:51:37:736 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:37:780 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 777
+2017/01/23 11:51:38:894 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:38:905 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 776
+2017/01/23 11:51:39:759 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:39:761 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 775
+2017/01/23 11:51:40:874 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:40:887 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 774
+2017/01/23 11:51:41:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:41:759 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 773
+2017/01/23 11:51:42:895 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:42:905 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 772
+2017/01/23 11:51:43:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:43:748 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 771
+2017/01/23 11:51:43:834 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:51:43:836 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:51:43:933 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:51:43:935 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:51:44:33 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:44:127 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:51:44:226 [I] GSM:2170 [0x0103] [20] ..+CSQ: 23,0....OK..                    
+2017/01/23 11:51:44:333 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:51:44:441 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:51:44:446 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:51:44:626 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:51:44:899 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:51:44:920 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:44:923 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 770
+2017/01/23 11:51:44:925 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:44:934 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:51:45:34 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:51:45:35 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:51:45:130 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:51:45:224 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:51:45:329 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:51:45:457 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:51:45:532 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:51:45:645 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577156,469177,107979....OK..
+2017/01/23 11:51:45:736 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:51:45:738 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:45:753 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 769
+2017/01/23 11:51:45:831 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:51:45:845 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:51:45:924 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:46:35 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:51:46:126 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:51:46:329 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:51:46:436 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,34....OK..               
+2017/01/23 11:51:46:438 [I] GSM:3373 [0x0000] [12] Box Temp: 34                            
+2017/01/23 11:51:46:529 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:51:46:626 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:51:46:645 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:51:46:942 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:46:954 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 768
+2017/01/23 11:51:46:957 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:51:46:959 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:51:47:738 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:47:751 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 767
+2017/01/23 11:51:48:944 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:48:946 [I] GSM:2866 [0x0107] [79] SmsRd: 8 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 766
+2017/01/23 11:51:49:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:49:752 [I] GSM:2866 [0x0107] [79] SmsRd: 7 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 765
+2017/01/23 11:51:50:760 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 764
+2017/01/23 11:51:51:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:51:757 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 763
+2017/01/23 11:51:52:971 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:52:982 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 762
+2017/01/23 11:51:53:737 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:53:756 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 761
+2017/01/23 11:51:54:740 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:54:754 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 760
+2017/01/23 11:51:55:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:55:761 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 759
+2017/01/23 11:51:56:761 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:56:766 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 758
+2017/01/23 11:51:57:40 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:51:57:43 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:51:57:767 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:57:770 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 757
+2017/01/23 11:51:58:753 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:58:755 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 756
+2017/01/23 11:51:59:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:51:59:760 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 755
+2017/01/23 11:52:00:753 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:00:765 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 754
+2017/01/23 11:52:01:19 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:52:01:27 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:52:01:43 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:52:01:44 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:52:01:56 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:01:131 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:52:01:226 [I] GSM:2170 [0x0103] [20] ..+CSQ: 23,0....OK..                    
+2017/01/23 11:52:01:338 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:52:01:447 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:52:01:448 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:52:01:630 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:52:01:723 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:52:01:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:01:745 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 753
+2017/01/23 11:52:01:821 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:01:928 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:52:02:35 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:52:02:36 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:52:02:129 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:52:02:242 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:52:02:333 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:52:02:445 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:52:02:539 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:52:02:633 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577156,469177,107979....OK..
+2017/01/23 11:52:02:737 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:52:02:738 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:02:761 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 752
+2017/01/23 11:52:02:972 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:52:02:977 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:52:02:978 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:03:21 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:52:03:128 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:03:332 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:52:03:445 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,34....OK..               
+2017/01/23 11:52:03:447 [I] GSM:3373 [0x0000] [12] Box Temp: 34                            
+2017/01/23 11:52:03:536 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:52:03:644 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:52:03:671 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:52:03:757 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:03:761 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 751
+2017/01/23 11:52:04:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:04:754 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 750
+2017/01/23 11:52:05:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:05:756 [I] GSM:2866 [0x0107] [79] SmsRd: 1 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 749
+2017/01/23 11:52:06:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:06:750 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 748
+2017/01/23 11:52:07:41 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:52:07:66 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:52:07:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:07:753 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 747
+2017/01/23 11:52:08:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:08:764 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 746
+2017/01/23 11:52:09:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:09:758 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 745
+2017/01/23 11:52:10:760 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:10:766 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 744
+2017/01/23 11:52:11:759 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:11:762 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 743
+2017/01/23 11:52:12:759 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:12:762 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 742
+2017/01/23 11:52:13:754 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:13:757 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 741
+2017/01/23 11:52:14:754 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:14:757 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 740
+2017/01/23 11:52:15:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:15:780 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 739
+2017/01/23 11:52:16:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:16:764 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 738
+2017/01/23 11:52:16:823 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:52:16:847 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:52:17:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:17:763 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 737
+2017/01/23 11:52:17:825 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:52:17:827 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:52:17:935 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:52:17:937 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:52:18:24 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:18:134 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:52:18:229 [I] GSM:2170 [0x0103] [20] ..+CSQ: 24,0....OK..                    
+2017/01/23 11:52:18:327 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:52:18:439 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:52:18:441 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:52:18:639 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:52:18:732 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:52:18:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:18:752 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 736
+2017/01/23 11:52:18:826 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:19:89 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:52:19:104 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:52:19:106 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:52:19:141 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:52:19:233 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:52:19:321 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:52:19:444 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:52:19:525 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:52:19:631 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577156,469177,107979....OK..
+2017/01/23 11:52:19:725 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:52:19:742 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:19:744 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 735
+2017/01/23 11:52:19:835 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:52:19:836 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:52:19:927 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:20:27 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:52:20:133 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:20:338 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:52:20:431 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,34....OK..               
+2017/01/23 11:52:20:432 [I] GSM:3373 [0x0000] [12] Box Temp: 34                            
+2017/01/23 11:52:20:522 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:52:20:639 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:52:20:640 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:52:20:760 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:20:761 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 734
+2017/01/23 11:52:21:754 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:21:757 [I] GSM:2866 [0x0107] [79] SmsRd: 5 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 733
+2017/01/23 11:52:22:755 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:22:758 [I] GSM:2866 [0x0107] [79] SmsRd: 4 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 732
+2017/01/23 11:52:23:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:23:753 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 731
+2017/01/23 11:52:24:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:24:754 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 730
+2017/01/23 11:52:25:753 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:25:756 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 729
+2017/01/23 11:52:26:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:26:760 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 728
+2017/01/23 11:52:26:830 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:52:26:845 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:52:27:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:27:764 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 727
+2017/01/23 11:52:28:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:28:762 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 726
+2017/01/23 11:52:29:756 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:29:763 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 725
+2017/01/23 11:52:30:756 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:30:759 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 724
+2017/01/23 11:52:31:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:31:764 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 723
+2017/01/23 11:52:32:758 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:32:762 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 722
+2017/01/23 11:52:33:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:33:759 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 721
+2017/01/23 11:52:34:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:34:766 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 720
+2017/01/23 11:52:34:825 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:52:34:827 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:52:34:935 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:52:34:938 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:52:35:210 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:35:211 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:52:35:233 [I] GSM:2170 [0x0103] [20] ..+CSQ: 23,0....OK..                    
+2017/01/23 11:52:35:334 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:52:35:434 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:52:35:436 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:52:35:625 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:52:35:730 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:52:35:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:35:752 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 719
+2017/01/23 11:52:35:823 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:35:937 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:52:36:30 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:52:36:32 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:52:36:126 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:52:36:231 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:52:36:323 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:52:36:456 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:52:36:529 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:52:36:636 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577156,469177,107979....OK..
+2017/01/23 11:52:36:731 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:52:36:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:36:756 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 718
+2017/01/23 11:52:36:826 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:52:36:830 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:52:36:922 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:37:321 [I] GSM:2109 [0x0100] [59] AT#MONI=7..t...........z.......OK..............=.....AT#TEM
+2017/01/23 11:52:37:432 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,34....OK..               
+2017/01/23 11:52:37:434 [I] GSM:3373 [0x0000] [12] Box Temp: 34                            
+2017/01/23 11:52:37:527 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:52:37:627 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:52:37:636 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:52:37:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:37:765 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 717
+2017/01/23 11:52:37:838 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:52:37:841 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:52:38:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:38:847 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 716
+2017/01/23 11:52:39:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:39:755 [I] GSM:2866 [0x0107] [79] SmsRd: 8 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 715
+2017/01/23 11:52:40:756 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:40:759 [I] GSM:2866 [0x0107] [79] SmsRd: 7 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 714
+2017/01/23 11:52:41:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:41:753 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 713
+2017/01/23 11:52:42:754 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:42:757 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 712
+2017/01/23 11:52:43:760 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:43:763 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 711
+2017/01/23 11:52:44:753 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:44:756 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 710
+2017/01/23 11:52:45:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:45:763 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 709
+2017/01/23 11:52:46:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:46:752 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 708
+2017/01/23 11:52:47:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:47:761 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 707
+2017/01/23 11:52:47:835 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:52:47:836 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:52:48:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:48:755 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 706
+2017/01/23 11:52:49:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:49:760 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 705
+2017/01/23 11:52:50:756 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:50:759 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 704
+2017/01/23 11:52:51:742 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:51:754 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 703
+2017/01/23 11:52:51:829 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:52:51:832 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:52:51:942 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:52:51:944 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:52:52:38 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:52:124 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:52:52:238 [I] GSM:2170 [0x0103] [20] ..+CSQ: 23,0....OK..                    
+2017/01/23 11:52:52:329 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:52:52:439 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:52:52:441 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:52:52:626 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:52:52:734 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:52:52:736 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:52:754 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 702
+2017/01/23 11:52:52:828 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:52:925 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:52:53:32 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:52:53:34 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:52:53:339 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:52:53:363 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:52:53:365 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:52:53:453 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:52:53:535 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:52:53:645 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577156,469177,107979....OK..
+2017/01/23 11:52:53:731 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:52:53:737 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:53:756 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 701
+2017/01/23 11:52:53:825 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:52:53:828 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:52:53:934 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:54:31 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:52:54:122 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:52:54:331 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:52:54:435 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,34....OK..               
+2017/01/23 11:52:54:439 [I] GSM:3373 [0x0000] [12] Box Temp: 34                            
+2017/01/23 11:52:54:528 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:52:54:623 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:52:54:638 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:52:54:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:54:766 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 700
+2017/01/23 11:52:55:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:55:764 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 699
+2017/01/23 11:52:56:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:56:760 [I] GSM:2866 [0x0107] [79] SmsRd: 1 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 698
+2017/01/23 11:52:57:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:57:756 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 697
+2017/01/23 11:52:57:828 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:52:57:831 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:52:58:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:58:752 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 696
+2017/01/23 11:52:59:762 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:52:59:767 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 695
+2017/01/23 11:53:00:757 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:00:759 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 694
+2017/01/23 11:53:01:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:01:751 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 693
+2017/01/23 11:53:02:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:02:752 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 692
+2017/01/23 11:53:03:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:03:754 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 691
+2017/01/23 11:53:04:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:04:768 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 690
+2017/01/23 11:53:05:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:05:765 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 689
+2017/01/23 11:53:06:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:06:760 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 688
+2017/01/23 11:53:07:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:07:756 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 687
+2017/01/23 11:53:07:820 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:53:07:836 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:53:08:758 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:08:759 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 686
+2017/01/23 11:53:08:821 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:53:08:833 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:53:08:924 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:53:08:944 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:53:09:18 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:09:131 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:53:09:341 [I] GSM:2170 [0x0103] [20] ..+CSQ: 24,0....OK..                    
+2017/01/23 11:53:09:351 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:53:09:423 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:53:09:439 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:53:09:631 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:53:09:721 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:53:09:735 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:09:755 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 685
+2017/01/23 11:53:09:828 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:09:923 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:53:10:21 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:53:10:35 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:53:10:129 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:53:10:239 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:53:10:334 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:53:10:453 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:53:10:530 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:53:10:640 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577156,469177,107979....OK..
+2017/01/23 11:53:10:721 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:53:10:736 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:10:752 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 684
+2017/01/23 11:53:10:829 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:53:10:830 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:53:10:920 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:11:30 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:53:11:127 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:11:326 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:53:11:436 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,34....OK..               
+2017/01/23 11:53:11:439 [I] GSM:3373 [0x0000] [12] Box Temp: 34                            
+2017/01/23 11:53:11:532 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:53:11:622 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:53:11:638 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:53:11:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:11:750 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 683
+2017/01/23 11:53:12:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:12:749 [I] GSM:2866 [0x0107] [79] SmsRd: 5 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 682
+2017/01/23 11:53:13:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:13:760 [I] GSM:2866 [0x0107] [79] SmsRd: 4 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 681
+2017/01/23 11:53:14:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:14:759 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 680
+2017/01/23 11:53:15:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:15:757 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 679
+2017/01/23 11:53:16:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:16:760 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 678
+2017/01/23 11:53:17:753 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:17:758 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 677
+2017/01/23 11:53:17:820 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:53:17:838 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:53:18:739 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:18:759 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 676
+2017/01/23 11:53:19:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:19:753 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 675
+2017/01/23 11:53:20:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:20:762 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 674
+2017/01/23 11:53:21:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:21:753 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 673
+2017/01/23 11:53:22:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:22:768 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 672
+2017/01/23 11:53:23:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:23:760 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 671
+2017/01/23 11:53:24:753 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:24:758 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 670
+2017/01/23 11:53:25:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:25:754 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 669
+2017/01/23 11:53:25:837 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:53:25:843 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:53:25:935 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:53:25:936 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:53:26:27 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:26:133 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:53:26:226 [I] GSM:2170 [0x0103] [20] ..+CSQ: 22,0....OK..                    
+2017/01/23 11:53:26:329 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:53:26:438 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:53:26:440 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:53:26:618 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:53:26:723 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:53:26:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:26:763 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 668
+2017/01/23 11:53:26:833 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:26:928 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:53:27:37 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:53:27:38 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:53:27:134 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:53:27:223 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:53:27:553 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:53:27:555 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:53:27:565 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:53:27:635 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577245,469217,108028....OK..
+2017/01/23 11:53:27:724 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:53:27:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:27:754 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 667
+2017/01/23 11:53:27:835 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:53:27:836 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:53:27:925 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:28:19 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:53:28:129 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:28:333 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:53:28:425 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,38....OK..               
+2017/01/23 11:53:28:444 [I] GSM:3373 [0x0000] [12] Box Temp: 38                            
+2017/01/23 11:53:28:525 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:53:28:627 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,384....OK..                   
+2017/01/23 11:53:28:629 [I] GSM:3355 [0x0000] [17] Batt Voltage: 384                       
+2017/01/23 11:53:28:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:28:759 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 666
+2017/01/23 11:53:28:830 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:53:28:831 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:53:29:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:29:752 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 665
+2017/01/23 11:53:30:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:30:750 [I] GSM:2866 [0x0107] [79] SmsRd: 8 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 664
+2017/01/23 11:53:31:766 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:31:768 [I] GSM:2866 [0x0107] [79] SmsRd: 7 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 663
+2017/01/23 11:53:32:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:32:770 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 662
+2017/01/23 11:53:33:742 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:33:759 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 661
+2017/01/23 11:53:34:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:34:757 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 660
+2017/01/23 11:53:35:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:35:757 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 659
+2017/01/23 11:53:36:759 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:36:761 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 658
+2017/01/23 11:53:37:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:37:760 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 657
+2017/01/23 11:53:38:754 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:38:757 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 656
+2017/01/23 11:53:38:832 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:53:38:836 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:53:39:739 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:39:751 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 655
+2017/01/23 11:53:40:740 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:40:751 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 654
+2017/01/23 11:53:41:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:41:751 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 653
+2017/01/23 11:53:42:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:42:760 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 652
+2017/01/23 11:53:42:822 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:53:42:824 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:53:42:936 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:53:42:938 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:53:43:26 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:43:126 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:53:43:228 [I] GSM:2170 [0x0103] [20] ..+CSQ: 22,0....OK..                    
+2017/01/23 11:53:43:325 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:53:43:634 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:53:43:636 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:53:43:662 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:53:43:727 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:53:43:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:43:752 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 651
+2017/01/23 11:53:43:821 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:43:919 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:53:44:22 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:53:44:42 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:53:44:118 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:53:44:226 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:53:44:320 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:53:44:447 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:53:44:525 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:53:44:640 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577334,469266,108068....OK..
+2017/01/23 11:53:44:735 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:53:44:736 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:44:747 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 650
+2017/01/23 11:53:44:824 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:53:44:826 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:53:44:928 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:45:23 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:53:45:132 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:53:45:337 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:53:45:641 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,36....OK..               
+2017/01/23 11:53:45:643 [I] GSM:3373 [0x0000] [12] Box Temp: 36                            
+2017/01/23 11:53:45:672 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:53:45:674 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:53:45:676 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:53:45:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:45:755 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 649
+2017/01/23 11:53:46:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:46:764 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 648
+2017/01/23 11:53:47:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:47:755 [I] GSM:2866 [0x0107] [79] SmsRd: 1 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 647
+2017/01/23 11:53:48:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:48:755 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 646
+2017/01/23 11:53:48:829 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:53:48:831 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:53:49:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:49:752 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 645
+2017/01/23 11:53:50:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:50:751 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 644
+2017/01/23 11:53:51:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:51:754 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 643
+2017/01/23 11:53:52:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:52:764 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 642
+2017/01/23 11:53:53:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:53:760 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 641
+2017/01/23 11:53:54:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:54:758 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 640
+2017/01/23 11:53:55:739 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:55:761 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 639
+2017/01/23 11:53:56:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:56:752 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 638
+2017/01/23 11:53:57:757 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:57:759 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 637
+2017/01/23 11:53:58:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:58:751 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 636
+2017/01/23 11:53:58:827 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:53:58:829 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:53:59:754 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:53:59:756 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 635
+2017/01/23 11:53:59:824 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:53:59:828 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:53:59:924 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:53:59:942 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:54:00:23 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:00:125 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:54:00:233 [I] GSM:2170 [0x0103] [20] ..+CSQ: 22,0....OK..                    
+2017/01/23 11:54:00:324 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:54:00:435 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:54:00:436 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:54:00:623 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:54:00:734 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:54:00:736 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:00:746 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 634
+2017/01/23 11:54:00:827 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:00:920 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:54:01:29 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:54:01:30 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:54:01:120 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:54:01:233 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:54:01:328 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:54:01:450 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:54:01:763 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:54:01:790 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577576,469419,108157....OK..
+2017/01/23 11:54:01:794 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:54:01:815 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:01:819 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 633
+2017/01/23 11:54:01:844 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:54:01:855 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:54:01:931 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:02:25 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:54:02:120 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:02:324 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:54:02:433 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,36....OK..               
+2017/01/23 11:54:02:440 [I] GSM:3373 [0x0000] [12] Box Temp: 36                            
+2017/01/23 11:54:02:525 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:54:02:635 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:54:02:637 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:54:02:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:02:753 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 632
+2017/01/23 11:54:03:801 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:03:828 [I] GSM:2866 [0x0107] [79] SmsRd: 5 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 631
+2017/01/23 11:54:04:744 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:04:756 [I] GSM:2866 [0x0107] [79] SmsRd: 4 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 630
+2017/01/23 11:54:05:777 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:05:779 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 629
+2017/01/23 11:54:06:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:06:755 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 628
+2017/01/23 11:54:07:823 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:07:832 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 627
+2017/01/23 11:54:08:750 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:08:753 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 626
+2017/01/23 11:54:08:833 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:54:08:835 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:54:09:818 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:09:827 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 625
+2017/01/23 11:54:10:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:10:749 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 624
+2017/01/23 11:54:11:830 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:11:841 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 623
+2017/01/23 11:54:12:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:12:751 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 622
+2017/01/23 11:54:13:854 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:13:866 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 621
+2017/01/23 11:54:14:739 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:14:755 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 620
+2017/01/23 11:54:15:952 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:15:955 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 619
+2017/01/23 11:54:16:756 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:16:758 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 618
+2017/01/23 11:54:16:834 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:54:16:835 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:54:16:923 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:54:16:938 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:54:17:30 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:17:124 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:54:17:219 [I] GSM:2170 [0x0103] [20] ..+CSQ: 23,0....OK..                    
+2017/01/23 11:54:17:332 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:54:17:428 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:54:17:439 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:54:17:851 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:54:17:909 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:54:17:928 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:17:935 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 617
+2017/01/23 11:54:17:940 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:17:979 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:54:18:30 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:54:18:31 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:54:18:124 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:54:18:225 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:54:18:326 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:54:18:452 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:54:18:530 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:54:18:642 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577576,469419,108157....OK..
+2017/01/23 11:54:18:718 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:54:18:735 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:18:742 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 616
+2017/01/23 11:54:18:825 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:54:18:834 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:54:18:920 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:19:31 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:54:19:133 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:19:324 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:54:19:438 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,36....OK..               
+2017/01/23 11:54:19:440 [I] GSM:3373 [0x0000] [12] Box Temp: 36                            
+2017/01/23 11:54:19:527 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:54:19:866 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:54:19:868 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:54:19:870 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:19:873 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 615
+2017/01/23 11:54:19:880 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:54:19:884 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:54:20:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:20:746 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 614
+2017/01/23 11:54:21:944 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:21:947 [I] GSM:2866 [0x0107] [79] SmsRd: 8 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 613
+2017/01/23 11:54:22:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:22:748 [I] GSM:2866 [0x0107] [79] SmsRd: 7 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 612
+2017/01/23 11:54:23:941 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:23:947 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 611
+2017/01/23 11:54:24:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:24:764 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 610
+2017/01/23 11:54:25:939 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:25:942 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 609
+2017/01/23 11:54:26:739 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:26:754 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 608
+2017/01/23 11:54:28:39 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:28:43 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 607
+2017/01/23 11:54:28:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:28:761 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 606
+2017/01/23 11:54:29:998 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:30:1 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 605
+2017/01/23 11:54:30:19 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:54:30:21 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:54:30:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:30:757 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 604
+2017/01/23 11:54:31:955 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:31:957 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 603
+2017/01/23 11:54:32:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:32:747 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 602
+2017/01/23 11:54:33:956 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:33:959 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 601
+2017/01/23 11:54:33:983 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:54:33:985 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:54:33:988 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050D"..            
+2017/01/23 11:54:33:991 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50D              
+2017/01/23 11:54:34:22 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:34:136 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:54:34:228 [I] GSM:2170 [0x0103] [20] ..+CSQ: 23,0....OK..                    
+2017/01/23 11:54:34:323 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:54:34:427 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:54:34:443 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:54:34:617 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:54:34:726 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:54:34:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:34:751 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 600
+2017/01/23 11:54:34:817 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:34:925 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:54:35:38 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:54:35:40 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:54:35:127 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:54:35:221 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:54:35:317 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:54:35:440 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:54:35:519 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:54:35:631 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577576,469419,108157....OK..
+2017/01/23 11:54:35:997 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:54:36:2 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:36:4 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 599
+2017/01/23 11:54:36:5 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:54:36:7 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:54:36:8 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:36:42 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:54:36:125 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:36:334 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:54:36:422 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,34....OK..               
+2017/01/23 11:54:36:437 [I] GSM:3373 [0x0000] [12] Box Temp: 34                            
+2017/01/23 11:54:36:516 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:54:36:623 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:54:36:625 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:54:36:739 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:36:753 [I] GSM:2866 [0x0107] [79] SmsRd: 3 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 598
+2017/01/23 11:54:37:742 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:37:745 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 597
+2017/01/23 11:54:38:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:38:746 [I] GSM:2866 [0x0107] [79] SmsRd: 1 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 596
+2017/01/23 11:54:39:749 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:39:752 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 595
+2017/01/23 11:54:39:940 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:54:39:950 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:54:40:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:40:749 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 594
+2017/01/23 11:54:41:736 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:41:743 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 593
+2017/01/23 11:54:42:743 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:42:756 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 592
+2017/01/23 11:54:43:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:43:753 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 591
+2017/01/23 11:54:44:737 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:44:756 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 590
+2017/01/23 11:54:45:760 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:45:763 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 589
+2017/01/23 11:54:46:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:46:752 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 588
+2017/01/23 11:54:47:232 [I] GSM:2174 [0x0103] [26] ..+CREG: 1,"A414","050B"..              
+2017/01/23 11:54:47:234 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50B              
+2017/01/23 11:54:47:328 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:54:47:330 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:54:47:422 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050B"..            
+2017/01/23 11:54:47:445 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50B              
+2017/01/23 11:54:47:530 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:47:621 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:54:47:736 [I] GSM:2170 [0x0103] [20] ..+CSQ: 22,0....OK..                    
+2017/01/23 11:54:47:738 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:47:751 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 0 | Cmd Timeout: 5 | STATE: 0805h; RI: 0 | Reset Timer: 587
+2017/01/23 11:54:48:29 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:54:48:58 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:54:48:60 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:54:48:124 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:54:48:231 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:54:48:323 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:48:423 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:54:48:526 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:54:48:528 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:54:48:625 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:54:48:733 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:54:48:735 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:48:750 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 0 | Cmd Timeout: 5 | STATE: 0811h; RI: 0 | Reset Timer: 586
+2017/01/23 11:54:48:822 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:54:48:947 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:54:49:26 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:54:49:140 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577576,469419,108157....OK..
+2017/01/23 11:54:49:230 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:54:49:322 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:54:49:323 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:54:49:437 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:49:525 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:54:49:621 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:54:49:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:49:755 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 081Bh; RI: 0 | Reset Timer: 585
+2017/01/23 11:54:50:62 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:54:50:64 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,34....OK..               
+2017/01/23 11:54:50:88 [I] GSM:3373 [0x0000] [12] Box Temp: 34                            
+2017/01/23 11:54:50:90 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:54:50:132 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,384....OK..                   
+2017/01/23 11:54:50:135 [I] GSM:3355 [0x0000] [17] Batt Voltage: 384                       
+2017/01/23 11:54:50:324 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:54:50:325 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:54:50:742 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:50:762 [I] GSM:2866 [0x0107] [79] SmsRd: 9 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 584
+2017/01/23 11:54:51:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:51:755 [I] GSM:2866 [0x0107] [79] SmsRd: 8 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 583
+2017/01/23 11:54:52:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:52:756 [I] GSM:2866 [0x0107] [79] SmsRd: 7 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 582
+2017/01/23 11:54:53:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:53:750 [I] GSM:2866 [0x0107] [79] SmsRd: 6 | Update: 11 | Cmd Timeout: 2 | STATE: 8001h; RI: 0 | Reset Timer: 581
+2017/01/23 11:54:54:742 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:54:751 [I] GSM:2866 [0x0107] [79] SmsRd: 5 | Update: 10 | Cmd Timeout: 1 | STATE: 8001h; RI: 0 | Reset Timer: 580
+2017/01/23 11:54:55:737 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:55:751 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 9 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 579
+2017/01/23 11:54:56:751 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:56:753 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 8 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 578
+2017/01/23 11:54:57:747 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:57:751 [I] GSM:2866 [0x0107] [78] SmsRd: 2 | Update: 7 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 577
+2017/01/23 11:54:58:734 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:58:749 [I] GSM:2866 [0x0107] [78] SmsRd: 1 | Update: 6 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 576
+2017/01/23 11:54:59:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:54:59:757 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 5 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 575
+2017/01/23 11:54:59:828 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:54:59:830 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      
+2017/01/23 11:55:00:740 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:55:00:761 [I] GSM:2866 [0x0107] [78] SmsRd: 9 | Update: 4 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 574
+2017/01/23 11:55:01:745 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:55:01:747 [I] GSM:2866 [0x0107] [78] SmsRd: 8 | Update: 3 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 573
+2017/01/23 11:55:02:740 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:55:02:755 [I] GSM:2866 [0x0107] [78] SmsRd: 7 | Update: 2 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 572
+2017/01/23 11:55:03:741 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:55:03:753 [I] GSM:2866 [0x0107] [78] SmsRd: 6 | Update: 1 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 571
+2017/01/23 11:55:04:740 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:55:04:760 [I] GSM:2866 [0x0107] [78] SmsRd: 5 | Update: 0 | Cmd Timeout: 0 | STATE: 8001h; RI: 0 | Reset Timer: 570
+2017/01/23 11:55:04:827 [I] Modem:274 [0x0107] [16] New State: 0801h                        
+2017/01/23 11:55:04:829 [I] GSM:2109 [0x0100] [10] AT+CREG?..                              
+2017/01/23 11:55:04:921 [I] GSM:2174 [0x0103] [28] ..+CREG: 2,1,"A414","050B"..            
+2017/01/23 11:55:04:941 [I] GSM:2531 [0x0107] [26] Stat: 1; LAC A414; CID 50B              
+2017/01/23 11:55:05:15 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:55:05:125 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 11:55:05:233 [I] GSM:2170 [0x0103] [20] ..+CSQ: 23,0....OK..                    
+2017/01/23 11:55:05:329 [I] GSM:2109 [0x0100] [10] AT+COPS?..                              
+2017/01/23 11:55:05:441 [I] GSM:2170 [0x0103] [28] ..+COPS: 0,2,"71204"....OK..            
+2017/01/23 11:55:05:444 [I] GSM:2738 [0x0109] [67] C-OPS Op Number: 71204; MCC: 712, MNC: 4, Format: 2, COPS Status: 0
+2017/01/23 11:55:05:625 [I] GSM:2109 [0x0100] [11] AT+CGREG?..                             
+2017/01/23 11:55:05:722 [I] GSM:2174 [0x0103] [15] ..+CGREG: 0,1..                         
+2017/01/23 11:55:05:736 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:55:05:752 [I] GSM:2866 [0x0107] [78] SmsRd: 4 | Update: 0 | Cmd Timeout: 5 | STATE: 080Ch; RI: 0 | Reset Timer: 569
+2017/01/23 11:55:05:832 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:55:06:151 [I] GSM:2109 [0x0100] [9] AT+CPAS..                               
+2017/01/23 11:55:06:177 [I] GSM:2170 [0x0103] [18] ..+CPAS: 0....OK..                      
+2017/01/23 11:55:06:179 [I] GSM:2942 [0x0117] [7] CPAS: 0                                 
+2017/01/23 11:55:06:204 [I] GSM:2109 [0x0100] [11] AT#SGACT?..                             
+2017/01/23 11:55:06:233 [I] GSM:2170 [0x0103] [21] ..#SGACT: 1,1....OK..                   
+2017/01/23 11:55:06:328 [I] GSM:2109 [0x0100] [7] AT#SS..                                 
+2017/01/23 11:55:06:443 [I] GSM:2170 [0x0103] [104] ..#SS: 1,1,10.0.61.201,11736,72.32.71.58,52767..#SS: 2,0..#SS: 3,0..#SS: 4,0..#SS: 5,0..#SS: 6,0....OK..
+2017/01/23 11:55:06:531 [I] GSM:2109 [0x0100] [15] AT#GDATAVOL=2..                         
+2017/01/23 11:55:06:636 [I] GSM:2170 [0x0103] [43] ..#GDATAVOL: 1,577576,469419,108157....OK..
+2017/01/23 11:55:06:721 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 11:55:06:738 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:55:06:739 [I] GSM:2866 [0x0107] [78] SmsRd: 3 | Update: 0 | Cmd Timeout: 5 | STATE: 0816h; RI: 0 | Reset Timer: 568
+2017/01/23 11:55:06:823 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,1..                           
+2017/01/23 11:55:06:824 [I] GSM:2411 [0x0107] [6] QSS: 1                                  
+2017/01/23 11:55:06:924 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:55:07:27 [I] GSM:2109 [0x0100] [11] AT#MONI=7..                             
+2017/01/23 11:55:07:120 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 11:55:07:325 [I] GSM:2109 [0x0100] [14] AT#TEMPMON=1..                          
+2017/01/23 11:55:07:435 [I] GSM:2170 [0x0103] [25] ..#TEMPMEAS: 0,34....OK..               
+2017/01/23 11:55:07:437 [I] GSM:3373 [0x0000] [12] Box Temp: 34                            
+2017/01/23 11:55:07:526 [I] GSM:2109 [0x0100] [8] AT#CBC..                                
+2017/01/23 11:55:07:623 [I] GSM:2170 [0x0103] [21] ..#CBC: 0,385....OK..                   
+2017/01/23 11:55:07:626 [I] GSM:3355 [0x0000] [17] Batt Voltage: 385                       
+2017/01/23 11:55:07:746 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:55:07:749 [I] GSM:2866 [0x0107] [79] SmsRd: 2 | Update: 14 | Cmd Timeout: 5 | STATE: 8001h; RI: 0 | Reset Timer: 567
+2017/01/23 11:55:08:748 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:55:08:751 [I] GSM:2866 [0x0107] [79] SmsRd: 1 | Update: 13 | Cmd Timeout: 4 | STATE: 8001h; RI: 0 | Reset Timer: 566
+2017/01/23 11:55:09:740 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 11:55:09:752 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 12 | Cmd Timeout: 3 | STATE: 8001h; RI: 0 | Reset Timer: 565
+2017/01/23 11:55:09:819 [I] Modem:274 [0x0107] [16] New State: 0300h                        
+2017/01/23 11:55:09:839 [W] GSM:978 [0x0111] [34] SIM not ready for SMS read. QSS: 1      

@@ -1,0 +1,10 @@
+Normal
+11:49:53
+
+USIM=2
+No conecta
+11:57:41
+
+USIM=3
+No conecta
+12:05:51

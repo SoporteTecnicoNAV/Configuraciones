@@ -1,0 +1,627 @@
+2017/01/23 12:03:09:963 [I] GSM:2109 [0x0100] [10] AT+CPIN?..                              
+2017/01/23 12:03:09:981 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:03:09:983 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 001Ah; RI: 0 | Reset Timer: 854
+2017/01/23 12:03:10:72 [I] GSM:2179 [0x0103] [18] ..+CME ERROR: 13..                      
+2017/01/23 12:03:10:77 [E] GSM:2435 [0x0503] [26] CME H/W: 13; TASK: 1A (26)              
+2017/01/23 12:03:10:95 [E] GSM:2505 [0x0503] [69] ERRHard:5 ERRAPP:0||ERR LIM: 5||NR:0 NRLim:5||Reboot:0 Reboot Limit:5
+2017/01/23 12:03:10:277 [I] GSM:2109 [0x0100] [4] AT..                                    
+2017/01/23 12:03:10:378 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 12:03:10:479 [I] GSM:2109 [0x0100] [6] ATE0..                                  
+2017/01/23 12:03:10:571 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 12:03:10:669 [I] GSM:2109 [0x0100] [11] AT+CMEE=1..                             
+2017/01/23 12:03:10:777 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 12:03:10:863 [I] GSM:2109 [0x0100] [11] AT+COPS=0..                             
+2017/01/23 12:03:11:177 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 12:03:11:180 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:03:11:183 [I] GSM:2866 [0x0107] [79] SmsRd: 0 | Update: 0 | Cmd Timeout: 29 | STATE: 000Dh; RI: 0 | Reset Timer: 853
+2017/01/23 12:03:11:186 [I] GSM:2109 [0x0100] [8] AT+CSQ..                                
+2017/01/23 12:03:11:188 [I] GSM:2170 [0x0103] [21] ..+CSQ: 99,99....OK..                   
+2017/01/23 12:03:11:275 [I] GSM:2109 [0x0100] [11] AT+CALM=0..                             
+2017/01/23 12:03:11:367 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 12:03:11:482 [I] GSM:2109 [0x0100] [15] AT#GPIO=8,1,1..                         
+2017/01/23 12:03:11:570 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 12:03:11:666 [I] GSM:2109 [0x0100] [10] AT#QSS=2..                              
+2017/01/23 12:03:11:788 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 12:03:11:866 [I] GSM:2109 [0x0100] [9] AT#QSS?..                               
+2017/01/23 12:03:11:976 [I] GSM:2174 [0x0103] [13] ..#QSS: 2,0..                           
+2017/01/23 12:03:11:978 [I] GSM:2411 [0x0107] [6] QSS: 0                                  
+2017/01/23 12:03:11:981 [I] Modem:241 [0x0000] [84] Modem Int St: 8002; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:03:11:996 [I] GSM:2866 [0x0107] [78] SmsRd: 0 | Update: 0 | Cmd Timeout: 5 | STATE: 0016h; RI: 0 | Reset Timer: 852
+2017/01/23 12:03:12:70 [I] GSM:2170 [0x0103] [6] ..OK..                                  
+2017/01/23 12:03:13:401 [E] Undefined:000 [0x0000] [485] Invalid Debug Received (Unknown Class) - Src: 2, Dst: 0, Rsp: F, Enc: T, ID: 1, Len: 129..Data: 00 02 02 F1 00 00 00 58 00 4D 6F 64 65 6D 20 49 6E 74 20 53 74 3A 20 38 30 30 32 3B 20 43 6D 64 20 54 6D 4F 75 74 3A 20 30 2C 20 52 62 74 20 44 65 6C 20 30 3B 20 4D 6F 64 65 6D 3A 20 55 6E 64 65 74 65 63 74 65 64 20 55 6E 6B 6E 6F 77 6E 3B 20 4C 6F 63 6B 6F 75 74 20 4F 66 66 20 54 3A 20 30 FC B3 81 24 00 00 02 01 01 00 03 02 C3 01 00 05 1C 00 43 4F 4C 44 20 4D 4F 44 45 4D 20 50 4F 57 ..
+2017/01/23 12:03:14:351 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:14:369 [W] Modem:461 [0x0009] [18] MODEM REGULATOR ON                      
+2017/01/23 12:03:15:334 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:16:349 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:17:342 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:18:341 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:19:340 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:19:373 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:03:20:342 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:21:342 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:22:351 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:23:349 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:24:339 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:25:350 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:26:343 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:27:343 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:28:340 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:29:356 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:29:370 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:03:30:337 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:31:337 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:32:354 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:33:336 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:33:368 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:03:34:348 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:35:349 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:36:345 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:37:342 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:38:348 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:39:382 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:40:353 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:41:341 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:42:341 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:42:370 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:03:43:372 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:44:349 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:45:346 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:46:342 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:47:350 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:48:345 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:49:367 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:50:337 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:51:432 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:52:350 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:52:381 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:03:53:413 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:54:348 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:55:489 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:56:343 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:03:56:358 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:03:56:390 [I] Modem:1027 [0x0103] [11] AT..:..OK..                             
+2017/01/23 12:03:56:406 [I] Modem:1012 [0x0100] [7] ATE0..:                                 
+2017/01/23 12:03:56:425 [I] Modem:1027 [0x0103] [13] ATE0..:..OK..                           
+2017/01/23 12:03:56:454 [I] Modem:1012 [0x0100] [16] AT+IPR=115200..:                        
+2017/01/23 12:03:56:466 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:03:56:485 [I] Modem:1012 [0x0100] [10] AT+CGMM..:                              
+2017/01/23 12:03:56:516 [I] Modem:1027 [0x0103] [15] ..GE865....OK..                         
+2017/01/23 12:03:56:518 [I] Modem:1144 [0x0000] [25] Modem Id: ..GE865....OK..               
+2017/01/23 12:03:56:520 [I] Modem:1160 [0x0000] [18] Modem ID: 0; GE865                      
+2017/01/23 12:03:56:532 [I] Modem:1012 [0x0100] [10] AT+CGMR..:                              
+2017/01/23 12:03:56:546 [I] Modem:1027 [0x0103] [19] ..10.00.005....OK..                     
+2017/01/23 12:03:56:562 [I] Modem:1012 [0x0100] [13] AT#SIMDET?..:                           
+2017/01/23 12:03:56:592 [I] Modem:1027 [0x0103] [22] ..#SIMDET: 2,1....OK..                  
+2017/01/23 12:03:56:594 [I] Modem:1792 [0x0000] [28] SIMDETSTATUS: 2; SimDet FAIL            
+2017/01/23 12:03:56:608 [I] Modem:1012 [0x0100] [14] AT#SIMDET=1..:                          
+2017/01/23 12:03:56:643 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:03:56:645 [I] Modem:1012 [0x0100] [14] AT#ENAUSIM=2..                          
+2017/01/23 12:03:56:671 [I] Modem:1027 [0x0103] [9] ..ERROR..                               
+2017/01/23 12:03:57:432 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:03:58:345 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:03:59:390 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:04:10:406 [W] Modem:451 [0x0500] [28] COLD MODEM POWER UP SEQUENCE            
+2017/01/23 12:04:10:555 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:10:579 [W] Modem:461 [0x0009] [18] MODEM REGULATOR ON                      
+2017/01/23 12:04:11:556 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:12:554 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:13:551 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:14:551 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:15:547 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:15:580 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:04:16:551 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:17:552 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:18:564 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:19:556 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:20:556 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:21:595 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:22:552 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:23:552 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:24:550 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:25:549 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:25:581 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:04:26:551 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:27:647 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:28:560 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:29:620 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:29:628 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:04:30:562 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:31:670 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:32:555 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:33:666 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:34:550 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:35:671 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:36:551 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:37:615 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:38:563 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:38:581 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:04:39:661 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:40:558 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:41:675 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:42:560 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:43:688 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:44:550 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:45:752 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:46:548 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:47:684 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:48:562 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:48:596 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:04:49:726 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:50:559 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:51:755 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:52:554 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:04:52:585 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:04:52:602 [I] Modem:1027 [0x0103] [11] AT..:..OK..                             
+2017/01/23 12:04:52:621 [I] Modem:1012 [0x0100] [7] ATE0..:                                 
+2017/01/23 12:04:52:635 [I] Modem:1027 [0x0103] [13] ATE0..:..OK..                           
+2017/01/23 12:04:52:666 [I] Modem:1012 [0x0100] [16] AT+IPR=115200..:                        
+2017/01/23 12:04:52:683 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:04:52:695 [I] Modem:1012 [0x0100] [10] AT+CGMM..:                              
+2017/01/23 12:04:52:728 [I] Modem:1027 [0x0103] [15] ..GE865....OK..                         
+2017/01/23 12:04:52:730 [I] Modem:1144 [0x0000] [25] Modem Id: ..GE865....OK..               
+2017/01/23 12:04:52:732 [I] Modem:1160 [0x0000] [18] Modem ID: 0; GE865                      
+2017/01/23 12:04:52:744 [I] Modem:1012 [0x0100] [10] AT+CGMR..:                              
+2017/01/23 12:04:52:759 [I] Modem:1027 [0x0103] [19] ..10.00.005....OK..                     
+2017/01/23 12:04:52:776 [I] Modem:1012 [0x0100] [13] AT#SIMDET?..:                           
+2017/01/23 12:04:52:804 [I] Modem:1027 [0x0103] [22] ..#SIMDET: 2,1....OK..                  
+2017/01/23 12:04:52:812 [I] Modem:1792 [0x0000] [28] SIMDETSTATUS: 2; SimDet FAIL            
+2017/01/23 12:04:52:830 [I] Modem:1012 [0x0100] [14] AT#SIMDET=1..:                          
+2017/01/23 12:04:52:846 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:04:52:864 [I] Modem:1012 [0x0100] [14] AT#ENAUSIM=2..                          
+2017/01/23 12:04:52:885 [I] Modem:1027 [0x0103] [9] ..ERROR..                               
+2017/01/23 12:04:53:752 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:04:54:552 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:04:55:779 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:05:06:616 [W] Modem:451 [0x0500] [28] COLD MODEM POWER UP SEQUENCE            
+2017/01/23 12:05:06:750 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:06:781 [W] Modem:461 [0x0009] [18] MODEM REGULATOR ON                      
+2017/01/23 12:05:07:823 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:08:755 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:09:845 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:10:763 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:11:869 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:11:871 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:05:12:757 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:13:879 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:14:758 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:15:877 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:16:751 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:17:967 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:18:762 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:19:893 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:20:758 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:21:832 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:21:838 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:05:22:756 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:23:979 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:24:753 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:25:921 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:25:924 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:05:26:756 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:27:953 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:28:765 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:29:751 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:30:762 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:31:760 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:32:760 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:33:755 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:34:755 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:34:788 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:05:35:765 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:36:754 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:37:775 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:38:762 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:39:761 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:40:761 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:41:757 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:42:756 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:43:758 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:44:759 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:44:799 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:05:45:753 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:46:775 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:47:765 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:48:753 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:05:48:780 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:05:48:814 [I] Modem:1027 [0x0103] [11] AT..:..OK..                             
+2017/01/23 12:05:48:816 [I] Modem:1012 [0x0100] [7] ATE0..:                                 
+2017/01/23 12:05:48:841 [I] Modem:1027 [0x0103] [13] ATE0..:..OK..                           
+2017/01/23 12:05:48:862 [I] Modem:1012 [0x0100] [16] AT+IPR=115200..:                        
+2017/01/23 12:05:48:894 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:05:48:905 [I] Modem:1012 [0x0100] [10] AT+CGMM..:                              
+2017/01/23 12:05:48:924 [I] Modem:1027 [0x0103] [15] ..GE865....OK..                         
+2017/01/23 12:05:48:934 [I] Modem:1144 [0x0000] [25] Modem Id: ..GE865....OK..               
+2017/01/23 12:05:48:951 [I] Modem:1160 [0x0000] [18] Modem ID: 0; GE865                      
+2017/01/23 12:05:48:955 [I] Modem:1012 [0x0100] [10] AT+CGMR..:                              
+2017/01/23 12:05:48:967 [I] Modem:1027 [0x0103] [19] ..10.00.005....OK..                     
+2017/01/23 12:05:48:983 [I] Modem:1012 [0x0100] [13] AT#SIMDET?..:                           
+2017/01/23 12:05:48:998 [I] Modem:1027 [0x0103] [22] ..#SIMDET: 2,1....OK..                  
+2017/01/23 12:05:49:17 [I] Modem:1792 [0x0000] [28] SIMDETSTATUS: 2; SimDet FAIL            
+2017/01/23 12:05:49:28 [I] Modem:1012 [0x0100] [14] AT#SIMDET=1..:                          
+2017/01/23 12:05:49:44 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:05:49:64 [I] Modem:1012 [0x0100] [14] AT#ENAUSIM=2..                          
+2017/01/23 12:05:49:89 [I] Modem:1027 [0x0103] [9] ..ERROR..                               
+2017/01/23 12:05:49:765 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:05:50:765 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:05:51:759 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:06:02:807 [W] Modem:451 [0x0500] [28] COLD MODEM POWER UP SEQUENCE            
+2017/01/23 12:06:02:961 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:02:994 [W] Modem:461 [0x0009] [18] MODEM REGULATOR ON                      
+2017/01/23 12:06:03:959 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:04:958 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:05:956 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:06:963 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:07:958 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:08:172 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:06:08:968 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:09:974 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:10:967 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:11:962 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:12:963 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:13:961 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:14:962 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:15:958 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:16:970 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:17:958 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:18:9 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:06:18:973 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:19:965 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:20:962 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:21:965 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:21:994 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:06:22:960 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:23:958 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:24:958 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:25:970 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:26:970 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:27:967 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:28:967 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:29:968 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:30:966 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:30:999 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:06:31:966 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:32:959 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:33:959 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:34:962 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:35:959 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:36:970 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:37:972 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:38:969 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:39:965 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:40:966 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:41:14 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:06:41:962 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:42:961 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:43:960 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:44:973 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:44:991 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:06:45:3 [I] Modem:1027 [0x0103] [11] AT..:..OK..                             
+2017/01/23 12:06:45:36 [I] Modem:1012 [0x0100] [7] ATE0..:                                 
+2017/01/23 12:06:45:51 [I] Modem:1027 [0x0103] [13] ATE0..:..OK..                           
+2017/01/23 12:06:45:68 [I] Modem:1012 [0x0100] [16] AT+IPR=115200..:                        
+2017/01/23 12:06:45:87 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:06:45:112 [I] Modem:1012 [0x0100] [10] AT+CGMM..:                              
+2017/01/23 12:06:45:147 [I] Modem:1027 [0x0103] [15] ..GE865....OK..                         
+2017/01/23 12:06:45:149 [I] Modem:1144 [0x0000] [25] Modem Id: ..GE865....OK..               
+2017/01/23 12:06:45:151 [I] Modem:1160 [0x0000] [18] Modem ID: 0; GE865                      
+2017/01/23 12:06:45:153 [I] Modem:1012 [0x0100] [10] AT+CGMR..:                              
+2017/01/23 12:06:45:174 [I] Modem:1027 [0x0103] [19] ..10.00.005....OK..                     
+2017/01/23 12:06:45:195 [I] Modem:1012 [0x0100] [13] AT#SIMDET?..:                           
+2017/01/23 12:06:45:216 [I] Modem:1027 [0x0103] [22] ..#SIMDET: 2,1....OK..                  
+2017/01/23 12:06:45:228 [I] Modem:1792 [0x0000] [28] SIMDETSTATUS: 2; SimDet FAIL            
+2017/01/23 12:06:45:243 [I] Modem:1012 [0x0100] [14] AT#SIMDET=1..:                          
+2017/01/23 12:06:45:266 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:06:45:268 [I] Modem:1012 [0x0100] [14] AT#ENAUSIM=2..                          
+2017/01/23 12:06:45:295 [I] Modem:1027 [0x0103] [9] ..ERROR..                               
+2017/01/23 12:06:45:963 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:06:46:960 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:06:47:969 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:06:59:12 [W] Modem:451 [0x0500] [28] COLD MODEM POWER UP SEQUENCE            
+2017/01/23 12:06:59:169 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:06:59:203 [W] Modem:461 [0x0009] [18] MODEM REGULATOR ON                      
+2017/01/23 12:07:00:167 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:01:164 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:02:171 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:03:179 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:04:177 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:04:209 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:07:05:174 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:06:179 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:07:175 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:08:172 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:09:169 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:10:168 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:11:167 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:12:168 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:13:179 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:14:180 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:14:213 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:07:15:175 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:16:160 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:17:173 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:18:173 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:18:206 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:07:19:170 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:20:168 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:21:183 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:22:203 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:23:180 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:24:177 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:25:177 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:26:174 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:27:173 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:27:211 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:07:28:175 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:29:171 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:30:172 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:31:183 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:32:182 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:33:183 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:34:182 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:35:177 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:36:174 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:37:175 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:37:206 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:07:38:171 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:39:171 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:40:188 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:41:181 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:41:196 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:07:41:212 [I] Modem:1027 [0x0103] [11] AT..:..OK..                             
+2017/01/23 12:07:41:244 [I] Modem:1012 [0x0100] [7] ATE0..:                                 
+2017/01/23 12:07:41:259 [I] Modem:1027 [0x0103] [13] ATE0..:..OK..                           
+2017/01/23 12:07:41:275 [I] Modem:1012 [0x0100] [16] AT+IPR=115200..:                        
+2017/01/23 12:07:41:306 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:07:41:326 [I] Modem:1012 [0x0100] [10] AT+CGMM..:                              
+2017/01/23 12:07:41:341 [I] Modem:1027 [0x0103] [15] ..GE865....OK..                         
+2017/01/23 12:07:41:343 [I] Modem:1144 [0x0000] [25] Modem Id: ..GE865....OK..               
+2017/01/23 12:07:41:344 [I] Modem:1160 [0x0000] [18] Modem ID: 0; GE865                      
+2017/01/23 12:07:41:356 [I] Modem:1012 [0x0100] [10] AT+CGMR..:                              
+2017/01/23 12:07:41:383 [I] Modem:1027 [0x0103] [19] ..10.00.005....OK..                     
+2017/01/23 12:07:41:403 [I] Modem:1012 [0x0100] [13] AT#SIMDET?..:                           
+2017/01/23 12:07:41:420 [I] Modem:1027 [0x0103] [22] ..#SIMDET: 2,1....OK..                  
+2017/01/23 12:07:41:422 [I] Modem:1792 [0x0000] [28] SIMDETSTATUS: 2; SimDet FAIL            
+2017/01/23 12:07:41:446 [I] Modem:1012 [0x0100] [14] AT#SIMDET=1..:                          
+2017/01/23 12:07:41:470 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:07:41:479 [I] Modem:1012 [0x0100] [14] AT#ENAUSIM=2..                          
+2017/01/23 12:07:41:498 [I] Modem:1027 [0x0103] [9] ..ERROR..                               
+2017/01/23 12:07:42:186 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:07:43:180 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:07:44:181 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:07:55:225 [W] Modem:451 [0x0500] [28] COLD MODEM POWER UP SEQUENCE            
+2017/01/23 12:07:55:379 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:55:411 [W] Modem:461 [0x0009] [18] MODEM REGULATOR ON                      
+2017/01/23 12:07:56:376 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:57:382 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:58:376 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:07:59:372 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:00:387 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:00:400 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:08:01:383 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:02:400 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:03:386 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:04:379 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:05:381 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:06:380 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:07:377 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:08:375 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:09:373 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:10:387 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:10:446 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:08:11:370 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:12:385 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:13:382 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:14:370 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:14:395 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:08:15:382 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:16:381 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:17:377 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:18:374 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:19:373 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:20:377 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:21:370 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:22:385 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:23:374 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:23:413 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:08:24:382 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:25:381 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:26:377 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:27:379 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:28:376 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:29:375 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:30:372 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:31:373 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:32:383 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:33:382 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:33:416 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:08:34:381 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:35:379 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:36:382 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:37:375 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:37:409 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:08:37:424 [I] Modem:1027 [0x0103] [11] AT..:..OK..                             
+2017/01/23 12:08:37:442 [I] Modem:1012 [0x0100] [7] ATE0..:                                 
+2017/01/23 12:08:37:471 [I] Modem:1027 [0x0103] [13] ATE0..:..OK..                           
+2017/01/23 12:08:37:484 [I] Modem:1012 [0x0100] [16] AT+IPR=115200..:                        
+2017/01/23 12:08:37:503 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:08:37:519 [I] Modem:1012 [0x0100] [10] AT+CGMM..:                              
+2017/01/23 12:08:37:540 [I] Modem:1027 [0x0103] [15] ..GE865....OK..                         
+2017/01/23 12:08:37:549 [I] Modem:1144 [0x0000] [25] Modem Id: ..GE865....OK..               
+2017/01/23 12:08:37:553 [I] Modem:1160 [0x0000] [18] Modem ID: 0; GE865                      
+2017/01/23 12:08:37:567 [I] Modem:1012 [0x0100] [10] AT+CGMR..:                              
+2017/01/23 12:08:37:596 [I] Modem:1027 [0x0103] [19] ..10.00.005....OK..                     
+2017/01/23 12:08:37:609 [I] Modem:1012 [0x0100] [13] AT#SIMDET?..:                           
+2017/01/23 12:08:37:642 [I] Modem:1027 [0x0103] [22] ..#SIMDET: 2,1....OK..                  
+2017/01/23 12:08:37:656 [I] Modem:1792 [0x0000] [28] SIMDETSTATUS: 2; SimDet FAIL            
+2017/01/23 12:08:37:673 [I] Modem:1012 [0x0100] [14] AT#SIMDET=1..:                          
+2017/01/23 12:08:37:689 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:08:37:704 [I] Modem:1012 [0x0100] [14] AT#ENAUSIM=2..                          
+2017/01/23 12:08:37:718 [I] Modem:1027 [0x0103] [9] ..ERROR..                               
+2017/01/23 12:08:38:377 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:08:39:373 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:08:40:389 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:08:51:432 [W] Modem:451 [0x0500] [28] COLD MODEM POWER UP SEQUENCE            
+2017/01/23 12:08:51:596 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:51:619 [W] Modem:461 [0x0009] [18] MODEM REGULATOR ON                      
+2017/01/23 12:08:52:586 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:53:588 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:54:587 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:55:598 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:56:596 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:56:629 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:08:57:599 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:58:593 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:08:59:596 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:00:593 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:01:588 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:02:589 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:03:604 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:04:599 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:05:597 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:06:595 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:06:626 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:09:07:598 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:08:596 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:09:593 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:10:595 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:10:628 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:09:11:591 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:12:588 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:13:595 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:14:586 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:15:601 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:16:600 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:17:605 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:18:594 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:19:593 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:19:622 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:09:20:596 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:21:590 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:22:588 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:23:602 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:24:615 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:25:599 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:26:595 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:27:600 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:28:590 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:29:597 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:29:627 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:09:30:589 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:31:589 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:32:587 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:33:600 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:33:620 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:09:33:647 [I] Modem:1027 [0x0103] [11] AT..:..OK..                             
+2017/01/23 12:09:33:665 [I] Modem:1012 [0x0100] [7] ATE0..:                                 
+2017/01/23 12:09:33:681 [I] Modem:1027 [0x0103] [13] ATE0..:..OK..                           
+2017/01/23 12:09:33:701 [I] Modem:1012 [0x0100] [16] AT+IPR=115200..:                        
+2017/01/23 12:09:33:715 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:09:33:730 [I] Modem:1012 [0x0100] [10] AT+CGMM..:                              
+2017/01/23 12:09:33:762 [I] Modem:1027 [0x0103] [15] ..GE865....OK..                         
+2017/01/23 12:09:33:763 [I] Modem:1144 [0x0000] [25] Modem Id: ..GE865....OK..               
+2017/01/23 12:09:33:766 [I] Modem:1160 [0x0000] [18] Modem ID: 0; GE865                      
+2017/01/23 12:09:33:779 [I] Modem:1012 [0x0100] [10] AT+CGMR..:                              
+2017/01/23 12:09:33:805 [I] Modem:1027 [0x0103] [19] ..10.00.005....OK..                     
+2017/01/23 12:09:33:821 [I] Modem:1012 [0x0100] [13] AT#SIMDET?..:                           
+2017/01/23 12:09:33:854 [I] Modem:1027 [0x0103] [22] ..#SIMDET: 2,1....OK..                  
+2017/01/23 12:09:33:856 [I] Modem:1792 [0x0000] [28] SIMDETSTATUS: 2; SimDet FAIL            
+2017/01/23 12:09:33:857 [I] Modem:1012 [0x0100] [14] AT#SIMDET=1..:                          
+2017/01/23 12:09:33:881 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:09:33:897 [I] Modem:1012 [0x0100] [14] AT#ENAUSIM=2..                          
+2017/01/23 12:09:33:914 [I] Modem:1027 [0x0103] [9] ..ERROR..                               
+2017/01/23 12:09:34:599 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:09:35:600 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:09:36:600 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:09:47:649 [W] Modem:451 [0x0500] [28] COLD MODEM POWER UP SEQUENCE            
+2017/01/23 12:09:47:798 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:47:832 [W] Modem:461 [0x0009] [18] MODEM REGULATOR ON                      
+2017/01/23 12:09:48:798 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:49:811 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:50:813 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:51:809 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:52:806 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:52:840 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:09:53:805 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:54:806 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:55:802 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:56:799 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:57:800 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:58:797 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:09:59:800 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:00:797 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:01:807 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:02:811 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:02:838 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:10:03:805 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:04:804 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:05:809 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:06:800 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:06:837 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:10:07:799 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:08:814 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:09:817 [I] Modem:241 [0x0000] [85] Modem Int St: 2; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:10:813 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:11:799 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:12:808 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:13:806 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:14:806 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:15:805 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:15:839 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:10:16:799 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:17:805 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:18:814 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:19:811 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:20:808 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:21:808 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:22:809 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:23:812 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:24:807 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:25:808 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:25:849 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:10:26:818 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:27:826 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:28:813 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:29:836 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:29:838 [I] Modem:1012 [0x0100] [5] AT..:                                   
+2017/01/23 12:10:29:863 [I] Modem:1027 [0x0103] [11] AT..:..OK..                             
+2017/01/23 12:10:29:876 [I] Modem:1012 [0x0100] [7] ATE0..:                                 
+2017/01/23 12:10:29:891 [I] Modem:1027 [0x0103] [13] ATE0..:..OK..                           
+2017/01/23 12:10:29:920 [I] Modem:1012 [0x0100] [16] AT+IPR=115200..:                        
+2017/01/23 12:10:29:940 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:10:29:952 [I] Modem:1012 [0x0100] [10] AT+CGMM..:                              
+2017/01/23 12:10:29:970 [I] Modem:1027 [0x0103] [15] ..GE865....OK..                         
+2017/01/23 12:10:29:981 [I] Modem:1144 [0x0000] [25] Modem Id: ..GE865....OK..               
+2017/01/23 12:10:29:985 [I] Modem:1160 [0x0000] [18] Modem ID: 0; GE865                      
+2017/01/23 12:10:29:987 [I] Modem:1012 [0x0100] [10] AT+CGMR..:                              
+2017/01/23 12:10:30:18 [I] Modem:1027 [0x0103] [19] ..10.00.005....OK..                     
+2017/01/23 12:10:30:28 [I] Modem:1012 [0x0100] [13] AT#SIMDET?..:                           
+2017/01/23 12:10:30:61 [I] Modem:1027 [0x0103] [22] ..#SIMDET: 2,1....OK..                  
+2017/01/23 12:10:30:62 [I] Modem:1792 [0x0000] [28] SIMDETSTATUS: 2; SimDet FAIL            
+2017/01/23 12:10:30:77 [I] Modem:1012 [0x0100] [14] AT#SIMDET=1..:                          
+2017/01/23 12:10:30:93 [I] Modem:1027 [0x0103] [6] ..OK..                                  
+2017/01/23 12:10:30:108 [I] Modem:1012 [0x0100] [14] AT#ENAUSIM=2..                          
+2017/01/23 12:10:30:143 [I] Modem:1027 [0x0103] [9] ..ERROR..                               
+2017/01/23 12:10:30:809 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:10:31:860 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:10:32:808 [I] Modem:241 [0x0000] [84] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Detected Ident; Lockout Off T: 0
+2017/01/23 12:10:43:850 [W] Modem:451 [0x0500] [28] COLD MODEM POWER UP SEQUENCE            
+2017/01/23 12:10:44:5 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:44:37 [W] Modem:461 [0x0009] [18] MODEM REGULATOR ON                      
+2017/01/23 12:10:45:9 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:46:19 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:47:19 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:48:17 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:49:17 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:49:38 [W] Modem:498 [0x0009] [30] MODEM ON POWERPIN TOGGLE START          
+2017/01/23 12:10:50:33 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 9, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:51:13 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 8, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:52:10 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 7, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:53:9 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 6, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:54:34 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 5, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:55:9 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 4, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:56:151 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 3, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:57:7 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 2, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:58:131 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 1, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:59:19 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0
+2017/01/23 12:10:59:40 [W] Modem:512 [0x0009] [30] MODEM POWERPIN TOGGLE COMPLETE          
+2017/01/23 12:11:00:17 [I] Modem:241 [0x0000] [88] Modem Int St: 8001; Cmd TmOut: 0, Rbt Del 0; Modem: Undetected Unknown; Lockout Off T: 0

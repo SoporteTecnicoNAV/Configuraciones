@@ -1,0 +1,20 @@
+MHub846
+Firmware Version: 004.027.001.BASELINE, Build: Sep 17 2015, 12:02:34
+
+Claro
+Service Centre Address: OK
+18:21:08
+18:22:06
+18:23:10
+
+Kolbi
+Service Centre Address: OK
+18:31:54
+18:32:45
+18:33:37
+
+Movistar
+Service Centre Address: No
+18:41:34 18:41:56
+18:42:34 18:42:51
+18:43:19 18:43:35
