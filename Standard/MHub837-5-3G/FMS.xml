@@ -1,0 +1,45 @@
+<DashData>
+    <Flags>
+	  <Group heading="Can Bus">
+            <Flag index="57" heading="Clutch" OnState="1" />
+            <Flag index="58" heading="Brake" OnState="1" />
+      </Group>
+    </Flags>
+    <Globals>
+        <Group heading="CANBus">
+        <Global index="7" length="1" scale="1" offset="0" heading="Speed" unit="km/h" format="" />
+        <Global index="3" length="1" scale="1" offset="0" heading="RPM" unit="x 100" format="" />
+        <Global index="9" length="4" scale="1" offset="0" heading="ODO" unit="m" format="" />
+        <Global index="10" length="4" scale="1" offset="0" heading="Trip" unit="" format="" />
+        <Global index="143" length="1" scale="1" offset="-40" heading="Eng. Coolant Temp" unit="°C" format="" />
+        <Global index="144" length="1" scale="1" offset="-20" heading="Eng. Oil Temp." unit="°C" format="" />
+        <Global index="145" length="1" scale="1" offset="0" heading="Fuel Level" unit="%" format="" />
+        <Global index="189" length="1" scale="1" offset="0" heading="Eng. Load" unit="%" format="" />
+        <Global index="146" length="1" scale="1" offset="0" heading="Acc. Pedal Pos." unit="%" format="" />
+        <Global index="147" length="2" scale="1" offset="0" heading="Inst. Fuel Rate." unit="L/h" format="" />
+        <Global index="148" length="1" scale="1" offset="0" heading="Inst. Fuel Eco." unit="km/L" format="" />
+        <Global index="149" length="1" scale="1" offset="0" heading="Trans. Oil Lvl." unit="%" format="" />
+        <Global index="150" length="1" scale="1" offset="0" heading="Trans. Oil Temp." unit="°C" format="" />
+        <Global index="151" length="2" scale="1" offset="0" heading="Serv. Dist." unit="km" format="" />
+        <Global index="152" length="1" scale="0.4" offset="0" heading="Eng. Oil Lvl." unit="%" format="" />
+        <Global index="153" length="1" scale="0.4" offset="0" heading="Eng. Clnt. Lvl." unit="%" format="" />
+        <Global index="154" length="4" scale="1" offset="0" heading="Trip Fuel" unit="L" format="" />
+        <Global index="155" length="4" scale="1" offset="0" heading="Tot. Fuel" unit="L" format="" />
+        <Global index="156" length="4" scale="1" offset="0" heading="Tot. Eng. Hours" unit="Hours" format="" />
+        <Global index="157" length="4" scale="1" offset="0" heading="Tot. Dist." unit="m" format="Hex" />
+        <Global index="158" length="4" scale="1" offset="0" heading="Trip Distance" unit="m" format="Hex" />
+        <Global index="75" length="2" scale="1" offset="0" heading="Clutch Durations" unit="100ms" format="" />
+        <Global index="76" length="2" scale="1" offset="0" heading="Clutch Count" unit="" format="" />
+        <Global index="77" length="2" scale="1" offset="0" heading="Brake Duration" unit="100ms" format="" />
+        <Global index="78" length="2" scale="1" offset="0" heading="Brake Count" unit="" format="" />
+        <Global index="170" length="2" scale="1" offset="0" heading="Axle Weight 0" unit="kg" format="" />
+		<Global index="171" length="2" scale="1" offset="0" heading="Axle Weight 1" unit="kg" format="" />
+		<Global index="172" length="4" scale="1" offset="0" heading="TCO Info" unit="" format="Hex" />
+		<Global index="173" length="4" scale="1" offset="0" heading="FMS 0 0-3" unit="" format="Hex" />
+		<Global index="174" length="4" scale="1" offset="0" heading="FMS 0 4-7" unit="" format="Hex" />
+		<Global index="175" length="4" scale="1" offset="0" heading="FMS 1 0-3" unit="" format="Hex" />
+		<Global index="176" length="4" scale="1" offset="0" heading="FMS 1 4-7" unit="" format="Hex" />
+
+         </Group>
+    </Globals>
+</DashData>

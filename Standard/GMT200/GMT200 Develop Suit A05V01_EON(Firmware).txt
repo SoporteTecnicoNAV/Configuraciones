@@ -1,0 +1,28 @@
+GMT200 (A GSM/GPRS/GPS Locator Designed By Queclink)
+
+A document and PC tool list of the GMT200 develop suit.
+
+Support firmware version: GMT200R00A05V01M128_EON
+
+=================================================
+
+1.  .\Firmware Image\GMT200R00A05V01M128_EON.zip
+                - The image file of firmware version GMT200R00A05V01M128_EON
+
+2.  .\Update Package For Upgrade In Air\Update Package List.zip
+        	- The update packages which is use to upgrade firmware of GMT200 over the air.
+              	- List of update packages:
+                  * 0208_0501.bin: update package from firmware version GMT200R00A02V08M128_EON to GMT200R00A05V01M128_EON
+                  * 0304_05O1.bin: update package from firmware version GMT200R00A03V04M128_EON to GMT200R00A05V01M128_EON
+                  * 0402_05O1.bin: update package from firmware version GMT200R00A04V02M128_EON to GMT200R00A05V01M128_EON
+                - File name XXXX_YYYY.bin rule: 
+                     * XXXX is current firmware version which is running in the device.
+                     * YYYY is target firmware version which is expect to be installed in the device.
+              	- You can get the current firmware version of the device by sending @track protocol command AT+GTRTO(sub-command:8).
+              	- Please refer to "GMT200 @Track Air Interface Firmware Update.pdf" to get the detail process on upgrading the firmware over the air.
+
+
+========================================
+
+http://www.queclink.com 
+sales@queclink.com
